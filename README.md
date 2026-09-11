@@ -24,9 +24,7 @@ Analyze 3 years of student placement records to answer:
 
 ---
 
-## 📊 Dashboard
 
-![Dashboard Screenshot](dashboard_screenshot.png)
 
 
 
@@ -66,13 +64,10 @@ The dashboard includes:
 
 ```
 ├── README.md
-├── data/
-│   └── riverdale_university_placements.csv
-├── sql/
-│   └── placement_queries.sql
-├── dashboard/
-│   └── dashboard_screenshot.png
-└── placements.pbix          # Power BI file (optional, if under GitHub's file size limit)
+├── riverdale_university_placements.csv
+├──  placement_queries.sql
+├── dashboard_screenshot.png
+└── placements.pbix          # Power BI file 
 ```
 
 ---
