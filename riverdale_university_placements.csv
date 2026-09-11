@@ -1,0 +1,1325 @@
+student_id,branch,cgpa,backlogs,placed,company,package_lpa,company_tier,placement_year,offers_count
+1001,CSE,8.58,0,Yes,Accenture,4.4,Tier 2,2022,1
+1002,CSE,8.37,0,Yes,TCS,6.8,Tier 2,2022,1
+1003,CSE,6.84,0,Yes,TCS,7.8,Tier 2,2022,1
+1004,CSE,5.53,0,Yes,Local Startup Inc,4.4,Tier 3,2022,1
+1005,CSE,6.95,0,No,,0,,2022,0
+1006,CSE,7.62,0,No,,0,,2022,0
+1007,CSE,7.03,3,No,,0,,2022,0
+1008,CSE,5.85,0,No,,0,,2022,0
+1009,CSE,5.59,0,No,,0,,2022,0
+1010,CSE,5.72,0,Yes,Local Startup Inc,4.2,Tier 3,2022,1
+1011,CSE,7.92,0,No,,0,,2022,0
+1012,CSE,6.4,0,Yes,NextGen Systems,4.4,Tier 3,2022,1
+1013,CSE,6.3,0,No,,0,,2022,0
+1014,CSE,5.99,0,Yes,NextGen Systems,3.9,Tier 3,2022,3
+1015,CSE,7.38,1,Yes,Wipro,6.0,Tier 2,2022,2
+1016,CSE,8.16,0,No,,0,,2022,0
+1017,CSE,5.6,0,Yes,NextGen Systems,3.4,Tier 3,2022,2
+1018,CSE,6.48,0,Yes,RegionalTech Solutions,4.0,Tier 3,2022,1
+1019,CSE,5.89,0,No,,0,,2022,0
+1020,CSE,7.83,0,Yes,TCS,4.8,Tier 2,2022,2
+1021,CSE,8.09,0,Yes,Cognizant,6.6,Tier 2,2022,1
+1022,CSE,8.6,3,No,,0,,2022,0
+1023,CSE,8.95,1,Yes,Capgemini,5.7,Tier 2,2022,1
+1024,CSE,7.33,0,Yes,Capgemini,8.4,Tier 2,2022,1
+1025,CSE,7.09,0,No,,0,,2022,0
+1026,CSE,8.49,2,Yes,Accenture,5.0,Tier 2,2022,1
+1027,CSE,6.74,3,No,,0,,2022,0
+1028,CSE,7.66,2,No,,0,,2022,0
+1029,CSE,6.67,0,No,,0,,2022,0
+1030,CSE,7.24,1,Yes,Accenture,8.7,Tier 2,2022,1
+1031,CSE,8.29,0,No,,0,,2022,0
+1032,CSE,7.85,1,Yes,Accenture,4.8,Tier 2,2022,1
+1033,CSE,5.72,3,No,,0,,2022,0
+1034,CSE,6.94,1,No,,0,,2022,0
+1035,CSE,6.94,1,Yes,Cognizant,4.6,Tier 2,2022,2
+1036,CSE,6.12,0,Yes,Local Startup Inc,3.7,Tier 3,2022,1
+1037,CSE,8.92,0,Yes,Adobe,22.1,Tier 1,2022,1
+1038,CSE,7.28,1,Yes,Accenture,6.9,Tier 2,2022,1
+1039,CSE,7.25,0,Yes,Wipro,6.1,Tier 2,2022,1
+1040,CSE,8.44,0,Yes,TCS,4.3,Tier 2,2022,1
+1041,CSE,6.93,0,Yes,Infosys,6.1,Tier 2,2022,1
+1042,CSE,5.24,0,Yes,RegionalTech Solutions,4.1,Tier 3,2022,2
+1043,CSE,7.51,1,Yes,TCS,8.6,Tier 2,2022,1
+1044,CSE,6.81,1,Yes,Infosys,8.3,Tier 2,2022,1
+1045,CSE,7.74,0,Yes,Cognizant,5.4,Tier 2,2022,2
+1046,CSE,6.82,1,No,,0,,2022,0
+1047,CSE,7.54,0,Yes,TCS,6.9,Tier 2,2022,1
+1048,CSE,5.62,0,No,,0,,2022,0
+1049,CSE,8.56,0,No,,0,,2022,0
+1050,CSE,7.71,0,No,,0,,2022,0
+1051,CSE,7.82,0,Yes,TCS,8.7,Tier 2,2022,1
+1052,CSE,7.54,0,Yes,TCS,6.1,Tier 2,2022,1
+1053,CSE,6.04,2,Yes,Local Startup Inc,3.0,Tier 3,2022,2
+1054,CSE,6.53,0,No,,0,,2022,0
+1055,CSE,5.0,2,Yes,NextGen Systems,4.5,Tier 3,2022,1
+1056,CSE,7.87,0,Yes,Wipro,8.4,Tier 2,2022,1
+1057,CSE,7.97,0,No,,0,,2022,0
+1058,CSE,6.47,1,No,,0,,2022,0
+1059,CSE,8.8,0,No,,0,,2022,0
+1060,CSE,7.07,0,No,,0,,2022,0
+1061,CSE,7.75,0,Yes,Wipro,5.4,Tier 2,2022,1
+1062,CSE,6.98,0,Yes,Wipro,6.5,Tier 2,2022,1
+1063,CSE,7.18,0,Yes,TCS,4.0,Tier 2,2022,2
+1064,CSE,9.6,1,Yes,Capgemini,6.2,Tier 2,2022,1
+1065,CSE,6.81,0,No,,0,,2022,0
+1066,CSE,5.84,1,Yes,RegionalTech Solutions,3.7,Tier 3,2022,1
+1067,CSE,7.54,0,No,,0,,2022,0
+1068,CSE,7.66,1,No,,0,,2022,0
+1069,CSE,7.81,0,Yes,Cognizant,8.9,Tier 2,2022,2
+1070,CSE,6.75,1,No,,0,,2022,0
+1071,CSE,7.25,1,Yes,Infosys,7.7,Tier 2,2022,1
+1072,CSE,7.85,0,No,,0,,2022,0
+1073,CSE,7.91,1,Yes,TCS,5.9,Tier 2,2022,2
+1074,CSE,5.12,0,No,,0,,2022,0
+1075,CSE,7.97,0,No,,0,,2022,0
+1076,CSE,9.54,2,Yes,Cognizant,5.6,Tier 2,2022,1
+1077,CSE,9.09,0,Yes,Accenture,5.7,Tier 2,2022,1
+1078,CSE,5.04,0,No,,0,,2022,0
+1079,CSE,7.1,3,Yes,Wipro,7.6,Tier 2,2022,1
+1080,CSE,8.65,0,Yes,Adobe,20.7,Tier 1,2022,1
+1081,ECE,7.18,2,No,,0,,2022,0
+1082,ECE,7.14,1,No,,0,,2022,0
+1083,ECE,6.7,0,No,,0,,2022,0
+1084,ECE,6.28,0,Yes,NextGen Systems,4.3,Tier 3,2022,2
+1085,ECE,5.57,0,No,,0,,2022,0
+1086,ECE,7.13,0,Yes,Cognizant,7.4,Tier 2,2022,1
+1087,ECE,8.45,0,Yes,Goldman Sachs,38.6,Tier 1,2022,1
+1088,ECE,6.33,0,Yes,NextGen Systems,2.9,Tier 3,2022,1
+1089,ECE,5.0,1,Yes,NextGen Systems,3.8,Tier 3,2022,1
+1090,ECE,7.6,0,Yes,Infosys,7.4,Tier 2,2022,3
+1091,ECE,7.32,0,Yes,TCS,6.3,Tier 2,2022,1
+1092,ECE,7.92,2,No,,0,,2022,0
+1093,ECE,6.99,0,Yes,TCS,7.9,Tier 2,2022,1
+1094,ECE,6.14,0,No,,0,,2022,0
+1095,ECE,6.79,0,No,,0,,2022,0
+1096,ECE,6.04,0,Yes,NextGen Systems,4.5,Tier 3,2022,1
+1097,ECE,5.0,2,No,,0,,2022,0
+1098,ECE,5.68,1,No,,0,,2022,0
+1099,ECE,7.87,2,No,,0,,2022,0
+1100,ECE,5.99,0,Yes,NextGen Systems,3.1,Tier 3,2022,1
+1101,ECE,7.42,0,Yes,Infosys,5.4,Tier 2,2022,2
+1102,ECE,5.95,0,No,,0,,2022,0
+1103,ECE,7.71,1,No,,0,,2022,0
+1104,ECE,7.81,0,Yes,Cognizant,4.3,Tier 2,2022,1
+1105,ECE,7.74,1,No,,0,,2022,0
+1106,ECE,6.25,0,No,,0,,2022,0
+1107,ECE,6.09,2,No,,0,,2022,0
+1108,ECE,6.63,0,No,,0,,2022,0
+1109,ECE,7.9,1,No,,0,,2022,0
+1110,ECE,6.03,2,No,,0,,2022,0
+1111,ECE,7.02,0,No,,0,,2022,0
+1112,ECE,8.46,1,No,,0,,2022,0
+1113,ECE,8.53,3,No,,0,,2022,0
+1114,ECE,5.12,2,No,,0,,2022,0
+1115,ECE,6.96,0,No,,0,,2022,0
+1116,ECE,6.81,0,Yes,Cognizant,5.6,Tier 2,2022,1
+1117,ECE,7.28,1,No,,0,,2022,0
+1118,ECE,6.13,0,Yes,NextGen Systems,2.6,Tier 3,2022,1
+1119,ECE,7.95,0,No,,0,,2022,0
+1120,ECE,6.97,0,Yes,TCS,7.1,Tier 2,2022,1
+1121,ECE,7.29,0,No,,0,,2022,0
+1122,ECE,8.44,0,Yes,Capgemini,7.6,Tier 2,2022,1
+1123,ECE,7.31,0,No,,0,,2022,0
+1124,ECE,6.55,2,No,,0,,2022,0
+1125,ECE,8.09,2,Yes,Capgemini,5.2,Tier 2,2022,1
+1126,ECE,6.62,1,Yes,TCS,8.0,Tier 2,2022,1
+1127,ECE,6.91,0,No,,0,,2022,0
+1128,ECE,7.07,0,No,,0,,2022,0
+1129,ECE,8.34,0,Yes,Cognizant,7.5,Tier 2,2022,1
+1130,ECE,7.29,0,No,,0,,2022,0
+1131,ECE,8.05,1,No,,0,,2022,0
+1132,ECE,7.01,0,Yes,Wipro,5.6,Tier 2,2022,2
+1133,ECE,7.27,0,Yes,Accenture,7.1,Tier 2,2022,2
+1134,ECE,9.77,0,Yes,Microsoft,25.6,Tier 1,2022,2
+1135,ECE,7.15,0,No,,0,,2022,0
+1136,ECE,8.09,0,Yes,Infosys,7.6,Tier 2,2022,1
+1137,ECE,5.35,1,No,,0,,2022,0
+1138,ECE,7.33,0,No,,0,,2022,0
+1139,ECE,7.85,1,Yes,Cognizant,6.8,Tier 2,2022,1
+1140,ECE,7.63,0,No,,0,,2022,0
+1141,ECE,6.23,0,Yes,NextGen Systems,2.9,Tier 3,2022,1
+1142,Mechanical,6.88,1,No,,0,,2022,0
+1143,Mechanical,6.94,1,Yes,Accenture,7.0,Tier 2,2022,1
+1144,Mechanical,6.53,3,No,,0,,2022,0
+1145,Mechanical,6.9,0,No,,0,,2022,0
+1146,Mechanical,8.2,0,Yes,Wipro,7.5,Tier 2,2022,1
+1147,Mechanical,8.75,0,No,,0,,2022,0
+1148,Mechanical,8.78,0,Yes,Google,22.6,Tier 1,2022,1
+1149,Mechanical,7.55,0,Yes,Capgemini,4.3,Tier 2,2022,1
+1150,Mechanical,6.79,0,No,,0,,2022,0
+1151,Mechanical,6.03,0,No,,0,,2022,0
+1152,Mechanical,9.9,0,No,,0,,2022,0
+1153,Mechanical,7.4,0,Yes,Cognizant,5.5,Tier 2,2022,2
+1154,Mechanical,8.52,0,Yes,Infosys,7.1,Tier 2,2022,2
+1155,Mechanical,7.16,0,No,,0,,2022,0
+1156,Mechanical,7.65,0,Yes,Cognizant,5.5,Tier 2,2022,1
+1157,Mechanical,7.4,1,No,,0,,2022,0
+1158,Mechanical,8.91,1,No,,0,,2022,0
+1159,Mechanical,7.56,1,No,,0,,2022,0
+1160,Mechanical,5.7,0,No,,0,,2022,0
+1161,Mechanical,5.76,1,Yes,RegionalTech Solutions,3.7,Tier 3,2022,1
+1162,Mechanical,5.28,1,No,,0,,2022,0
+1163,Mechanical,6.05,0,No,,0,,2022,0
+1164,Mechanical,7.66,0,No,,0,,2022,0
+1165,Mechanical,5.83,2,No,,0,,2022,0
+1166,Mechanical,7.77,0,Yes,Capgemini,8.2,Tier 2,2022,1
+1167,Mechanical,5.0,3,No,,0,,2022,0
+1168,Mechanical,5.97,0,Yes,RegionalTech Solutions,3.5,Tier 3,2022,2
+1169,Mechanical,6.37,3,No,,0,,2022,0
+1170,Mechanical,7.52,1,No,,0,,2022,0
+1171,Mechanical,6.09,0,Yes,RegionalTech Solutions,3.9,Tier 3,2022,1
+1172,Mechanical,7.41,0,No,,0,,2022,0
+1173,Mechanical,7.74,0,Yes,Cognizant,8.3,Tier 2,2022,1
+1174,Mechanical,5.92,1,Yes,RegionalTech Solutions,3.3,Tier 3,2022,2
+1175,Mechanical,7.6,1,No,,0,,2022,0
+1176,Mechanical,8.16,1,Yes,Wipro,6.2,Tier 2,2022,1
+1177,Mechanical,7.02,3,No,,0,,2022,0
+1178,Mechanical,6.67,0,Yes,Accenture,6.0,Tier 2,2022,1
+1179,Mechanical,7.53,0,No,,0,,2022,0
+1180,Mechanical,9.28,0,Yes,Amazon,27.5,Tier 1,2022,2
+1181,Mechanical,5.96,0,Yes,NextGen Systems,3.5,Tier 3,2022,1
+1182,Mechanical,7.34,2,No,,0,,2022,0
+1183,Mechanical,6.88,0,No,,0,,2022,0
+1184,Mechanical,9.12,0,No,,0,,2022,0
+1185,Mechanical,7.01,0,No,,0,,2022,0
+1186,Mechanical,8.11,0,Yes,Wipro,5.7,Tier 2,2022,1
+1187,Mechanical,7.29,2,No,,0,,2022,0
+1188,Mechanical,6.13,3,No,,0,,2022,0
+1189,Mechanical,5.59,0,Yes,RegionalTech Solutions,3.3,Tier 3,2022,1
+1190,Mechanical,8.65,1,No,,0,,2022,0
+1191,Mechanical,8.48,0,Yes,Cognizant,4.5,Tier 2,2022,1
+1192,Mechanical,7.05,2,Yes,Capgemini,8.8,Tier 2,2022,1
+1193,Mechanical,8.91,0,Yes,Amazon,40.6,Tier 1,2022,1
+1194,Mechanical,8.07,2,No,,0,,2022,0
+1195,Mechanical,6.49,1,No,,0,,2022,0
+1196,Mechanical,8.8,0,Yes,Infosys,7.7,Tier 2,2022,1
+1197,Mechanical,6.74,0,No,,0,,2022,0
+1198,Mechanical,7.4,0,No,,0,,2022,0
+1199,Mechanical,7.48,1,Yes,Infosys,5.2,Tier 2,2022,1
+1200,Mechanical,7.01,0,No,,0,,2022,0
+1201,Mechanical,7.49,0,Yes,Cognizant,8.6,Tier 2,2022,1
+1202,Mechanical,7.82,0,Yes,Wipro,7.3,Tier 2,2022,1
+1203,Mechanical,8.19,0,Yes,Wipro,8.9,Tier 2,2022,1
+1204,Mechanical,6.47,0,No,,0,,2022,0
+1205,Civil,7.2,0,Yes,Infosys,5.9,Tier 2,2022,1
+1206,Civil,9.33,0,Yes,Goldman Sachs,23.2,Tier 1,2022,1
+1207,Civil,5.67,1,Yes,RegionalTech Solutions,4.2,Tier 3,2022,1
+1208,Civil,6.53,2,No,,0,,2022,0
+1209,Civil,7.45,0,Yes,Capgemini,7.8,Tier 2,2022,1
+1210,Civil,9.16,1,Yes,Capgemini,7.2,Tier 2,2022,1
+1211,Civil,6.77,0,No,,0,,2022,0
+1212,Civil,8.31,0,Yes,Microsoft,38.6,Tier 1,2022,2
+1213,Civil,7.95,0,Yes,Cognizant,8.8,Tier 2,2022,1
+1214,Civil,6.46,0,No,,0,,2022,0
+1215,Civil,7.61,0,No,,0,,2022,0
+1216,Civil,6.03,0,No,,0,,2022,0
+1217,Civil,6.69,1,No,,0,,2022,0
+1218,Civil,6.22,0,Yes,Local Startup Inc,3.4,Tier 3,2022,1
+1219,Civil,6.43,0,No,,0,,2022,0
+1220,Civil,5.75,2,Yes,Local Startup Inc,3.7,Tier 3,2022,1
+1221,Civil,8.12,0,No,,0,,2022,0
+1222,Civil,6.86,0,Yes,Capgemini,6.0,Tier 2,2022,2
+1223,Civil,8.9,0,Yes,Infosys,5.9,Tier 2,2022,1
+1224,Civil,9.25,0,No,,0,,2022,0
+1225,Civil,6.75,0,No,,0,,2022,0
+1226,Civil,5.91,2,No,,0,,2022,0
+1227,Civil,7.96,2,Yes,Infosys,6.2,Tier 2,2022,1
+1228,Civil,5.88,3,No,,0,,2022,0
+1229,Civil,8.56,0,No,,0,,2022,0
+1230,Civil,8.18,0,Yes,TCS,8.7,Tier 2,2022,1
+1231,Civil,7.42,0,No,,0,,2022,0
+1232,Civil,6.77,3,Yes,Infosys,7.9,Tier 2,2022,1
+1233,Civil,7.77,0,No,,0,,2022,0
+1234,Civil,9.19,1,Yes,Accenture,4.0,Tier 2,2022,2
+1235,Civil,7.59,0,Yes,Capgemini,8.3,Tier 2,2022,1
+1236,Civil,6.72,0,Yes,Accenture,5.6,Tier 2,2022,2
+1237,Civil,7.37,1,No,,0,,2022,0
+1238,Civil,7.52,1,No,,0,,2022,0
+1239,Civil,7.43,0,Yes,TCS,7.6,Tier 2,2022,2
+1240,Civil,5.9,2,No,,0,,2022,0
+1241,Civil,6.7,0,No,,0,,2022,0
+1242,Civil,8.7,1,Yes,Capgemini,8.5,Tier 2,2022,1
+1243,Civil,7.6,0,Yes,Capgemini,6.9,Tier 2,2022,1
+1244,Civil,7.4,1,Yes,Wipro,6.3,Tier 2,2022,1
+1245,Civil,6.8,1,No,,0,,2022,0
+1246,Civil,6.89,1,No,,0,,2022,0
+1247,Civil,7.06,0,Yes,Cognizant,6.0,Tier 2,2022,1
+1248,Civil,6.45,1,No,,0,,2022,0
+1249,Civil,6.88,3,No,,0,,2022,0
+1250,Civil,7.98,0,Yes,Cognizant,4.5,Tier 2,2022,1
+1251,Civil,7.06,0,No,,0,,2022,0
+1252,Civil,5.19,0,No,,0,,2022,0
+1253,Civil,7.94,1,No,,0,,2022,0
+1254,Civil,7.91,2,No,,0,,2022,0
+1255,Civil,8.66,0,Yes,Infosys,8.2,Tier 2,2022,1
+1256,Civil,6.91,0,No,,0,,2022,0
+1257,Civil,7.87,0,Yes,Accenture,7.1,Tier 2,2022,1
+1258,Civil,7.79,0,Yes,Capgemini,5.3,Tier 2,2022,2
+1259,Civil,7.93,0,Yes,Infosys,6.8,Tier 2,2022,1
+1260,Civil,8.75,0,Yes,Adobe,21.5,Tier 1,2022,1
+1261,Civil,6.32,0,No,,0,,2022,0
+1262,Civil,7.68,1,No,,0,,2022,0
+1263,Civil,7.51,0,No,,0,,2022,0
+1264,Civil,7.38,1,Yes,Cognizant,7.0,Tier 2,2022,1
+1265,Civil,6.54,0,Yes,Capgemini,7.4,Tier 2,2022,1
+1266,Civil,7.59,0,No,,0,,2022,0
+1267,Civil,8.26,0,Yes,Infosys,7.8,Tier 2,2022,1
+1268,Civil,7.51,1,Yes,Cognizant,7.7,Tier 2,2022,1
+1269,Civil,7.68,1,No,,0,,2022,0
+1270,Civil,8.16,1,No,,0,,2022,0
+1271,Civil,9.17,0,Yes,Accenture,6.1,Tier 2,2022,2
+1272,Civil,8.16,0,No,,0,,2022,0
+1273,Civil,6.92,3,No,,0,,2022,0
+1274,Civil,8.29,2,No,,0,,2022,0
+1275,Civil,6.81,0,Yes,Cognizant,6.6,Tier 2,2022,1
+1276,Civil,6.23,0,Yes,RegionalTech Solutions,4.1,Tier 3,2022,1
+1277,Civil,8.58,0,Yes,Microsoft,22.1,Tier 1,2022,2
+1278,Civil,7.92,0,Yes,Capgemini,4.4,Tier 2,2022,1
+1279,Civil,8.67,0,Yes,Accenture,7.2,Tier 2,2022,1
+1280,Civil,6.73,3,No,,0,,2022,0
+1281,Civil,8.14,0,Yes,Wipro,7.0,Tier 2,2022,1
+1282,Civil,7.03,0,Yes,TCS,4.3,Tier 2,2022,1
+1283,Civil,7.42,2,No,,0,,2022,0
+1284,Civil,6.82,0,No,,0,,2022,0
+1285,Civil,5.84,1,No,,0,,2022,0
+1286,Civil,7.52,0,No,,0,,2022,0
+1287,Electrical,7.77,0,No,,0,,2022,0
+1288,Electrical,8.59,0,No,,0,,2022,0
+1289,Electrical,8.83,0,No,,0,,2022,0
+1290,Electrical,5.0,0,No,,0,,2022,0
+1291,Electrical,8.54,0,Yes,Amazon,35.4,Tier 1,2022,2
+1292,Electrical,7.12,0,No,,0,,2022,0
+1293,Electrical,6.7,0,Yes,Capgemini,8.8,Tier 2,2022,1
+1294,Electrical,8.05,0,Yes,Capgemini,4.7,Tier 2,2022,1
+1295,Electrical,5.51,1,No,,0,,2022,0
+1296,Electrical,9.53,0,No,,0,,2022,0
+1297,Electrical,6.81,1,No,,0,,2022,0
+1298,Electrical,8.2,1,No,,0,,2022,0
+1299,Electrical,7.08,0,No,,0,,2022,0
+1300,Electrical,5.53,0,No,,0,,2022,0
+1301,Electrical,6.75,0,No,,0,,2022,0
+1302,Electrical,7.73,0,Yes,TCS,5.5,Tier 2,2022,1
+1303,Electrical,7.51,0,No,,0,,2022,0
+1304,Electrical,5.93,0,No,,0,,2022,0
+1305,Electrical,8.29,0,Yes,Capgemini,7.9,Tier 2,2022,1
+1306,Electrical,6.13,1,Yes,RegionalTech Solutions,3.2,Tier 3,2022,1
+1307,Electrical,6.65,0,No,,0,,2022,0
+1308,Electrical,5.0,1,No,,0,,2022,0
+1309,Electrical,7.39,1,No,,0,,2022,0
+1310,Electrical,9.9,0,Yes,Amazon,38.3,Tier 1,2022,1
+1311,Electrical,6.05,0,Yes,RegionalTech Solutions,2.6,Tier 3,2022,1
+1312,Electrical,7.18,0,Yes,Capgemini,8.2,Tier 2,2022,2
+1313,Electrical,7.74,1,Yes,Infosys,8.2,Tier 2,2022,2
+1314,Electrical,6.47,0,No,,0,,2022,0
+1315,Electrical,8.13,2,No,,0,,2022,0
+1316,Electrical,5.11,0,No,,0,,2022,0
+1317,Electrical,6.86,0,Yes,Capgemini,7.2,Tier 2,2022,1
+1318,Electrical,7.5,1,Yes,Cognizant,7.5,Tier 2,2022,1
+1319,Electrical,8.31,0,Yes,Microsoft,31.5,Tier 1,2022,1
+1320,Electrical,8.52,1,No,,0,,2022,0
+1321,Electrical,7.89,0,Yes,Accenture,6.3,Tier 2,2022,1
+1322,Electrical,7.78,0,No,,0,,2022,0
+1323,Electrical,7.04,0,Yes,Cognizant,4.0,Tier 2,2022,1
+1324,Electrical,7.09,0,No,,0,,2022,0
+1325,Electrical,7.83,0,Yes,Accenture,6.5,Tier 2,2022,3
+1326,Electrical,8.71,3,No,,0,,2022,0
+1327,Electrical,6.24,0,No,,0,,2022,0
+1328,Electrical,7.99,0,Yes,Wipro,5.2,Tier 2,2022,2
+1329,Electrical,6.92,0,No,,0,,2022,0
+1330,Electrical,6.77,0,Yes,Capgemini,4.9,Tier 2,2022,1
+1331,Electrical,7.42,1,No,,0,,2022,0
+1332,Electrical,5.99,1,Yes,RegionalTech Solutions,2.6,Tier 3,2022,2
+1333,Electrical,7.78,2,No,,0,,2022,0
+1334,Electrical,9.06,0,Yes,Google,37.6,Tier 1,2022,2
+1335,Electrical,7.57,1,No,,0,,2022,0
+1336,Electrical,8.16,0,Yes,Cognizant,7.7,Tier 2,2022,1
+1337,Electrical,8.06,3,No,,0,,2022,0
+1338,Electrical,6.53,0,No,,0,,2022,0
+1339,Electrical,5.24,1,Yes,Local Startup Inc,3.6,Tier 3,2022,1
+1340,Electrical,6.96,0,Yes,Wipro,6.2,Tier 2,2022,1
+1341,Electrical,7.07,0,Yes,Wipro,7.1,Tier 2,2022,2
+1342,Electrical,6.55,0,No,,0,,2022,0
+1343,Electrical,7.3,1,No,,0,,2022,0
+1344,Electrical,6.83,0,No,,0,,2022,0
+1345,Electrical,7.35,1,No,,0,,2022,0
+1346,Electrical,7.43,0,Yes,Capgemini,5.8,Tier 2,2022,1
+1347,Electrical,6.14,0,No,,0,,2022,0
+1348,Electrical,8.16,2,No,,0,,2022,0
+1349,Electrical,7.32,0,Yes,Infosys,8.8,Tier 2,2022,1
+1350,Electrical,5.77,0,Yes,NextGen Systems,2.7,Tier 3,2022,1
+1351,Electrical,7.47,0,No,,0,,2022,0
+1352,Electrical,5.5,1,No,,0,,2022,0
+1353,Electrical,7.38,0,Yes,TCS,8.1,Tier 2,2022,2
+1354,Electrical,7.77,3,No,,0,,2022,0
+1355,Electrical,6.35,0,Yes,Local Startup Inc,3.9,Tier 3,2022,1
+1356,Electrical,5.7,2,No,,0,,2022,0
+1357,Electrical,7.56,0,Yes,Cognizant,4.1,Tier 2,2022,1
+1358,Electrical,5.94,0,Yes,NextGen Systems,2.8,Tier 3,2022,2
+1359,Electrical,7.5,0,No,,0,,2022,0
+1360,Electrical,6.93,0,Yes,Accenture,4.4,Tier 2,2022,1
+1361,Electrical,8.75,0,No,,0,,2022,0
+1362,Electrical,6.93,0,No,,0,,2022,0
+1363,Electrical,7.5,0,No,,0,,2022,0
+1364,Electrical,5.66,0,No,,0,,2022,0
+1365,Electrical,7.73,0,Yes,Capgemini,5.1,Tier 2,2022,1
+1366,Electrical,7.39,2,No,,0,,2022,0
+1367,IT,7.67,0,Yes,Wipro,7.1,Tier 2,2022,1
+1368,IT,6.51,0,No,,0,,2022,0
+1369,IT,5.98,0,No,,0,,2022,0
+1370,IT,6.41,2,No,,0,,2022,0
+1371,IT,7.48,2,Yes,Accenture,5.3,Tier 2,2022,2
+1372,IT,7.05,0,Yes,TCS,6.5,Tier 2,2022,1
+1373,IT,6.57,3,No,,0,,2022,0
+1374,IT,6.55,1,No,,0,,2022,0
+1375,IT,7.07,0,Yes,Infosys,5.7,Tier 2,2022,1
+1376,IT,7.61,0,No,,0,,2022,0
+1377,IT,5.82,0,Yes,NextGen Systems,3.6,Tier 3,2022,2
+1378,IT,9.9,0,Yes,Google,16.5,Tier 1,2022,1
+1379,IT,9.27,0,No,,0,,2022,0
+1380,IT,6.46,2,No,,0,,2022,0
+1381,IT,8.81,0,Yes,Amazon,29.9,Tier 1,2022,3
+1382,IT,6.49,0,Yes,Local Startup Inc,2.9,Tier 3,2022,1
+1383,IT,6.99,0,No,,0,,2022,0
+1384,IT,7.48,1,Yes,TCS,6.2,Tier 2,2022,1
+1385,IT,8.51,1,Yes,Accenture,6.8,Tier 2,2022,1
+1386,IT,6.01,0,Yes,RegionalTech Solutions,4.0,Tier 3,2022,1
+1387,IT,6.59,1,Yes,Cognizant,5.9,Tier 2,2022,3
+1388,IT,9.9,3,No,,0,,2022,0
+1389,IT,6.79,0,Yes,TCS,4.7,Tier 2,2022,1
+1390,IT,7.66,0,Yes,Accenture,8.5,Tier 2,2022,1
+1391,IT,8.83,0,Yes,Accenture,5.7,Tier 2,2022,1
+1392,IT,9.16,1,Yes,Wipro,6.4,Tier 2,2022,2
+1393,IT,8.18,0,Yes,Capgemini,8.4,Tier 2,2022,1
+1394,IT,7.3,0,Yes,Capgemini,7.9,Tier 2,2022,1
+1395,IT,7.44,1,No,,0,,2022,0
+1396,IT,5.78,0,No,,0,,2022,0
+1397,IT,5.66,0,No,,0,,2022,0
+1398,IT,5.76,0,No,,0,,2022,0
+1399,IT,7.37,0,Yes,Cognizant,6.5,Tier 2,2022,1
+1400,IT,7.34,0,Yes,Capgemini,4.3,Tier 2,2022,2
+1401,IT,7.68,0,Yes,Wipro,8.8,Tier 2,2022,1
+1402,IT,7.77,0,Yes,Capgemini,7.9,Tier 2,2022,1
+1403,IT,6.91,1,No,,0,,2022,0
+1404,IT,5.65,0,Yes,Local Startup Inc,4.4,Tier 3,2022,1
+1405,IT,9.08,1,Yes,Cognizant,5.7,Tier 2,2022,1
+1406,IT,6.99,2,No,,0,,2022,0
+1407,IT,7.12,1,Yes,Wipro,8.8,Tier 2,2022,3
+1408,IT,7.75,1,Yes,Capgemini,4.4,Tier 2,2022,1
+1409,IT,8.63,1,Yes,Wipro,8.7,Tier 2,2022,2
+1410,IT,6.46,1,Yes,NextGen Systems,3.0,Tier 3,2022,1
+1411,IT,9.47,0,Yes,Goldman Sachs,18.0,Tier 1,2022,1
+1412,IT,7.95,1,Yes,Infosys,6.0,Tier 2,2022,1
+1413,IT,9.27,0,Yes,Google,42.2,Tier 1,2022,3
+1414,IT,6.3,0,No,,0,,2022,0
+1415,IT,5.48,2,No,,0,,2022,0
+1416,IT,6.81,0,No,,0,,2022,0
+1417,IT,8.31,3,No,,0,,2022,0
+1418,IT,9.41,0,No,,0,,2022,0
+1419,IT,9.64,2,Yes,TCS,8.6,Tier 2,2022,1
+1420,IT,6.61,0,Yes,Accenture,6.5,Tier 2,2022,1
+1421,IT,9.19,0,Yes,Goldman Sachs,34.4,Tier 1,2022,1
+1422,IT,6.39,1,Yes,RegionalTech Solutions,3.6,Tier 3,2022,1
+1423,IT,7.23,2,No,,0,,2022,0
+1424,IT,6.52,1,No,,0,,2022,0
+1425,IT,8.6,0,Yes,Amazon,26.5,Tier 1,2022,1
+1426,IT,8.05,0,Yes,Accenture,7.6,Tier 2,2022,1
+1427,IT,8.8,1,Yes,Wipro,4.8,Tier 2,2022,1
+1428,IT,7.32,1,No,,0,,2022,0
+1429,IT,8.64,1,Yes,Wipro,7.1,Tier 2,2022,2
+1430,IT,5.98,0,Yes,NextGen Systems,4.5,Tier 3,2022,1
+1431,IT,6.0,2,No,,0,,2022,0
+1432,IT,8.42,1,No,,0,,2022,0
+1433,IT,7.32,0,No,,0,,2022,0
+1434,IT,5.54,0,No,,0,,2022,0
+1435,IT,5.61,0,No,,0,,2022,0
+1436,CSE,9.07,0,Yes,Adobe,28.3,Tier 1,2023,1
+1437,CSE,6.46,0,No,,0,,2023,0
+1438,CSE,5.62,0,Yes,RegionalTech Solutions,3.4,Tier 3,2023,1
+1439,CSE,8.35,1,No,,0,,2023,0
+1440,CSE,7.63,0,No,,0,,2023,0
+1441,CSE,7.16,0,Yes,TCS,8.7,Tier 2,2023,1
+1442,CSE,5.75,0,No,,0,,2023,0
+1443,CSE,8.31,1,No,,0,,2023,0
+1444,CSE,7.42,3,No,,0,,2023,0
+1445,CSE,5.0,0,No,,0,,2023,0
+1446,CSE,8.86,2,Yes,Capgemini,8.4,Tier 2,2023,1
+1447,CSE,8.66,0,No,,0,,2023,0
+1448,CSE,8.82,0,Yes,TCS,8.9,Tier 2,2023,3
+1449,CSE,5.49,0,Yes,RegionalTech Solutions,3.2,Tier 3,2023,1
+1450,CSE,7.6,0,No,,0,,2023,0
+1451,CSE,7.12,1,Yes,TCS,5.2,Tier 2,2023,2
+1452,CSE,6.67,0,Yes,Capgemini,7.5,Tier 2,2023,1
+1453,CSE,8.92,0,Yes,TCS,4.7,Tier 2,2023,1
+1454,CSE,7.74,3,Yes,Accenture,5.6,Tier 2,2023,2
+1455,CSE,5.86,0,Yes,NextGen Systems,3.5,Tier 3,2023,1
+1456,CSE,6.25,0,Yes,NextGen Systems,4.3,Tier 3,2023,1
+1457,CSE,8.51,0,Yes,Capgemini,5.9,Tier 2,2023,3
+1458,CSE,6.39,0,No,,0,,2023,0
+1459,CSE,6.42,0,Yes,Local Startup Inc,3.1,Tier 3,2023,1
+1460,CSE,7.71,1,No,,0,,2023,0
+1461,CSE,8.42,3,No,,0,,2023,0
+1462,CSE,6.48,0,Yes,NextGen Systems,2.7,Tier 3,2023,1
+1463,CSE,6.19,0,No,,0,,2023,0
+1464,CSE,7.53,0,Yes,TCS,8.4,Tier 2,2023,1
+1465,CSE,7.91,1,Yes,Wipro,5.5,Tier 2,2023,1
+1466,CSE,8.92,2,Yes,Capgemini,4.6,Tier 2,2023,1
+1467,CSE,8.46,0,Yes,Accenture,5.6,Tier 2,2023,1
+1468,CSE,7.2,0,Yes,Wipro,5.3,Tier 2,2023,1
+1469,CSE,5.91,0,No,,0,,2023,0
+1470,CSE,7.1,0,No,,0,,2023,0
+1471,CSE,8.11,0,Yes,Infosys,4.1,Tier 2,2023,1
+1472,CSE,6.66,0,Yes,Wipro,4.8,Tier 2,2023,2
+1473,CSE,6.68,1,No,,0,,2023,0
+1474,CSE,8.14,1,No,,0,,2023,0
+1475,CSE,7.11,3,No,,0,,2023,0
+1476,CSE,9.24,0,Yes,Adobe,29.6,Tier 1,2023,2
+1477,CSE,8.39,0,Yes,Capgemini,4.2,Tier 2,2023,1
+1478,CSE,6.51,0,Yes,TCS,7.5,Tier 2,2023,1
+1479,CSE,8.5,0,Yes,Cognizant,7.3,Tier 2,2023,1
+1480,CSE,7.27,0,Yes,TCS,6.6,Tier 2,2023,1
+1481,CSE,6.73,0,No,,0,,2023,0
+1482,CSE,9.9,1,No,,0,,2023,0
+1483,CSE,7.64,0,Yes,Accenture,5.3,Tier 2,2023,1
+1484,CSE,6.92,0,No,,0,,2023,0
+1485,CSE,9.65,0,Yes,Google,34.6,Tier 1,2023,1
+1486,CSE,8.53,2,No,,0,,2023,0
+1487,CSE,8.09,0,Yes,Infosys,4.4,Tier 2,2023,1
+1488,CSE,7.8,1,No,,0,,2023,0
+1489,CSE,5.72,3,No,,0,,2023,0
+1490,CSE,9.84,2,Yes,Capgemini,8.4,Tier 2,2023,2
+1491,CSE,6.86,0,No,,0,,2023,0
+1492,CSE,7.25,2,No,,0,,2023,0
+1493,CSE,9.67,0,No,,0,,2023,0
+1494,CSE,7.72,0,No,,0,,2023,0
+1495,CSE,6.94,0,Yes,Cognizant,7.4,Tier 2,2023,1
+1496,CSE,6.12,0,Yes,NextGen Systems,3.9,Tier 3,2023,2
+1497,CSE,5.0,0,Yes,RegionalTech Solutions,3.7,Tier 3,2023,2
+1498,CSE,7.19,0,Yes,Wipro,4.1,Tier 2,2023,3
+1499,CSE,6.7,0,Yes,Cognizant,4.9,Tier 2,2023,2
+1500,CSE,9.9,0,Yes,Microsoft,36.4,Tier 1,2023,2
+1501,CSE,7.75,1,No,,0,,2023,0
+1502,CSE,7.51,1,Yes,TCS,8.7,Tier 2,2023,1
+1503,CSE,5.45,0,Yes,NextGen Systems,3.6,Tier 3,2023,1
+1504,CSE,7.83,0,Yes,TCS,7.0,Tier 2,2023,1
+1505,CSE,7.67,0,Yes,Capgemini,8.5,Tier 2,2023,2
+1506,CSE,5.06,2,No,,0,,2023,0
+1507,CSE,6.6,0,Yes,Cognizant,4.7,Tier 2,2023,1
+1508,CSE,6.91,0,Yes,TCS,5.8,Tier 2,2023,1
+1509,CSE,8.85,0,Yes,Google,43.5,Tier 1,2023,1
+1510,CSE,6.6,0,No,,0,,2023,0
+1511,CSE,7.53,0,No,,0,,2023,0
+1512,CSE,6.27,2,No,,0,,2023,0
+1513,CSE,7.83,2,Yes,Cognizant,8.8,Tier 2,2023,1
+1514,CSE,7.93,0,Yes,Accenture,7.9,Tier 2,2023,1
+1515,CSE,6.79,1,Yes,Infosys,7.0,Tier 2,2023,2
+1516,CSE,7.99,0,Yes,Capgemini,6.3,Tier 2,2023,1
+1517,CSE,6.89,0,No,,0,,2023,0
+1518,CSE,6.06,1,No,,0,,2023,0
+1519,CSE,6.11,0,Yes,NextGen Systems,3.3,Tier 3,2023,1
+1520,CSE,7.9,0,Yes,Accenture,6.0,Tier 2,2023,1
+1521,CSE,5.0,1,No,,0,,2023,0
+1522,CSE,7.1,1,Yes,Accenture,7.0,Tier 2,2023,2
+1523,CSE,7.65,0,Yes,Accenture,4.2,Tier 2,2023,1
+1524,ECE,6.93,1,No,,0,,2023,0
+1525,ECE,7.25,0,Yes,Accenture,7.7,Tier 2,2023,1
+1526,ECE,5.0,0,No,,0,,2023,0
+1527,ECE,7.39,0,No,,0,,2023,0
+1528,ECE,8.25,1,Yes,Cognizant,4.5,Tier 2,2023,3
+1529,ECE,5.0,0,No,,0,,2023,0
+1530,ECE,8.62,0,Yes,Goldman Sachs,25.4,Tier 1,2023,1
+1531,ECE,8.64,0,Yes,TCS,8.2,Tier 2,2023,1
+1532,ECE,8.21,0,No,,0,,2023,0
+1533,ECE,8.82,0,Yes,Cognizant,5.2,Tier 2,2023,1
+1534,ECE,9.9,0,Yes,Google,37.1,Tier 1,2023,1
+1535,ECE,8.09,0,Yes,Wipro,7.8,Tier 2,2023,1
+1536,ECE,6.39,1,Yes,NextGen Systems,2.9,Tier 3,2023,1
+1537,ECE,6.64,0,No,,0,,2023,0
+1538,ECE,8.28,0,No,,0,,2023,0
+1539,ECE,5.96,0,Yes,NextGen Systems,2.8,Tier 3,2023,2
+1540,ECE,6.33,1,No,,0,,2023,0
+1541,ECE,8.48,1,Yes,TCS,4.9,Tier 2,2023,1
+1542,ECE,6.48,1,No,,0,,2023,0
+1543,ECE,6.68,0,Yes,Capgemini,8.6,Tier 2,2023,1
+1544,ECE,7.49,2,Yes,Wipro,4.7,Tier 2,2023,1
+1545,ECE,6.72,0,Yes,Infosys,5.0,Tier 2,2023,1
+1546,ECE,8.31,0,Yes,Goldman Sachs,27.5,Tier 1,2023,1
+1547,ECE,7.88,0,Yes,Wipro,4.2,Tier 2,2023,2
+1548,ECE,6.12,0,Yes,NextGen Systems,4.0,Tier 3,2023,2
+1549,ECE,7.34,0,Yes,Wipro,6.7,Tier 2,2023,2
+1550,ECE,5.82,1,No,,0,,2023,0
+1551,ECE,6.48,0,No,,0,,2023,0
+1552,ECE,7.48,1,Yes,TCS,6.2,Tier 2,2023,2
+1553,ECE,6.02,0,No,,0,,2023,0
+1554,ECE,8.85,1,Yes,Accenture,7.4,Tier 2,2023,2
+1555,ECE,8.17,0,No,,0,,2023,0
+1556,ECE,6.04,1,No,,0,,2023,0
+1557,ECE,7.69,0,No,,0,,2023,0
+1558,ECE,5.86,0,No,,0,,2023,0
+1559,ECE,6.82,3,No,,0,,2023,0
+1560,ECE,8.58,2,No,,0,,2023,0
+1561,ECE,8.41,0,Yes,Capgemini,8.3,Tier 2,2023,1
+1562,ECE,8.58,0,No,,0,,2023,0
+1563,ECE,8.08,1,No,,0,,2023,0
+1564,ECE,5.56,0,Yes,RegionalTech Solutions,2.7,Tier 3,2023,1
+1565,ECE,7.72,0,No,,0,,2023,0
+1566,ECE,5.39,1,No,,0,,2023,0
+1567,ECE,5.98,0,No,,0,,2023,0
+1568,ECE,7.56,1,Yes,Capgemini,7.3,Tier 2,2023,3
+1569,ECE,6.95,0,Yes,Infosys,6.5,Tier 2,2023,1
+1570,ECE,7.51,0,Yes,Infosys,6.8,Tier 2,2023,1
+1571,ECE,6.19,1,Yes,RegionalTech Solutions,2.5,Tier 3,2023,1
+1572,ECE,7.29,2,Yes,Cognizant,5.0,Tier 2,2023,1
+1573,ECE,6.98,0,Yes,Wipro,4.5,Tier 2,2023,2
+1574,ECE,6.66,0,Yes,Capgemini,4.8,Tier 2,2023,1
+1575,ECE,6.45,1,Yes,NextGen Systems,2.7,Tier 3,2023,1
+1576,ECE,7.77,0,Yes,Accenture,7.4,Tier 2,2023,1
+1577,ECE,8.89,1,No,,0,,2023,0
+1578,ECE,7.3,0,Yes,Cognizant,4.4,Tier 2,2023,1
+1579,ECE,7.38,0,Yes,Infosys,7.2,Tier 2,2023,1
+1580,ECE,6.72,1,Yes,Accenture,7.3,Tier 2,2023,1
+1581,ECE,5.56,0,Yes,NextGen Systems,3.4,Tier 3,2023,1
+1582,ECE,7.85,0,No,,0,,2023,0
+1583,ECE,7.56,1,Yes,Infosys,5.2,Tier 2,2023,1
+1584,ECE,7.63,0,Yes,Capgemini,7.0,Tier 2,2023,1
+1585,ECE,7.5,1,No,,0,,2023,0
+1586,ECE,5.54,0,No,,0,,2023,0
+1587,ECE,5.38,0,Yes,Local Startup Inc,3.5,Tier 3,2023,2
+1588,ECE,7.09,0,No,,0,,2023,0
+1589,ECE,6.08,3,No,,0,,2023,0
+1590,ECE,6.45,2,Yes,NextGen Systems,3.3,Tier 3,2023,2
+1591,ECE,6.55,0,No,,0,,2023,0
+1592,ECE,7.01,0,No,,0,,2023,0
+1593,ECE,7.96,2,No,,0,,2023,0
+1594,ECE,7.27,0,Yes,Cognizant,6.1,Tier 2,2023,2
+1595,ECE,5.91,0,Yes,Local Startup Inc,3.5,Tier 3,2023,1
+1596,ECE,8.11,0,No,,0,,2023,0
+1597,ECE,6.13,0,No,,0,,2023,0
+1598,ECE,6.95,1,Yes,Capgemini,8.8,Tier 2,2023,1
+1599,ECE,7.26,2,Yes,TCS,5.5,Tier 2,2023,1
+1600,ECE,8.02,1,No,,0,,2023,0
+1601,ECE,8.46,1,Yes,Accenture,6.6,Tier 2,2023,3
+1602,ECE,8.38,1,Yes,Capgemini,7.9,Tier 2,2023,1
+1603,ECE,6.93,1,Yes,Wipro,6.6,Tier 2,2023,2
+1604,Mechanical,9.48,1,Yes,Cognizant,6.6,Tier 2,2023,1
+1605,Mechanical,9.25,0,Yes,Capgemini,7.6,Tier 2,2023,2
+1606,Mechanical,7.94,0,Yes,TCS,5.2,Tier 2,2023,1
+1607,Mechanical,6.14,0,No,,0,,2023,0
+1608,Mechanical,7.39,2,No,,0,,2023,0
+1609,Mechanical,8.75,0,Yes,Wipro,8.1,Tier 2,2023,1
+1610,Mechanical,6.27,0,Yes,Local Startup Inc,2.9,Tier 3,2023,1
+1611,Mechanical,8.24,3,Yes,Wipro,7.9,Tier 2,2023,1
+1612,Mechanical,5.0,0,Yes,RegionalTech Solutions,2.9,Tier 3,2023,1
+1613,Mechanical,6.34,0,No,,0,,2023,0
+1614,Mechanical,6.83,0,No,,0,,2023,0
+1615,Mechanical,7.3,2,No,,0,,2023,0
+1616,Mechanical,6.48,0,Yes,Local Startup Inc,3.6,Tier 3,2023,1
+1617,Mechanical,6.09,0,Yes,RegionalTech Solutions,4.2,Tier 3,2023,2
+1618,Mechanical,5.92,1,Yes,Local Startup Inc,3.3,Tier 3,2023,1
+1619,Mechanical,9.9,0,Yes,Adobe,27.4,Tier 1,2023,1
+1620,Mechanical,6.49,2,No,,0,,2023,0
+1621,Mechanical,7.18,0,No,,0,,2023,0
+1622,Mechanical,5.75,0,No,,0,,2023,0
+1623,Mechanical,8.7,0,Yes,Cognizant,7.5,Tier 2,2023,2
+1624,Mechanical,7.82,1,Yes,TCS,8.7,Tier 2,2023,1
+1625,Mechanical,8.44,0,Yes,Google,31.1,Tier 1,2023,1
+1626,Mechanical,8.62,3,Yes,Wipro,8.3,Tier 2,2023,1
+1627,Mechanical,8.88,0,No,,0,,2023,0
+1628,Mechanical,8.27,0,Yes,Infosys,4.5,Tier 2,2023,2
+1629,Mechanical,7.21,0,No,,0,,2023,0
+1630,Mechanical,8.23,0,No,,0,,2023,0
+1631,Mechanical,8.3,0,No,,0,,2023,0
+1632,Mechanical,7.42,0,Yes,Infosys,4.6,Tier 2,2023,2
+1633,Mechanical,8.97,0,Yes,Capgemini,4.4,Tier 2,2023,1
+1634,Mechanical,7.92,0,No,,0,,2023,0
+1635,Mechanical,9.9,0,Yes,Amazon,18.7,Tier 1,2023,2
+1636,Mechanical,8.91,2,Yes,Cognizant,8.1,Tier 2,2023,2
+1637,Mechanical,6.99,1,Yes,Infosys,5.4,Tier 2,2023,1
+1638,Mechanical,7.36,0,Yes,Accenture,5.2,Tier 2,2023,1
+1639,Mechanical,6.88,0,Yes,Infosys,6.1,Tier 2,2023,1
+1640,Mechanical,8.29,0,No,,0,,2023,0
+1641,Mechanical,7.22,0,Yes,Capgemini,5.8,Tier 2,2023,1
+1642,Mechanical,9.9,0,Yes,Cognizant,5.4,Tier 2,2023,2
+1643,Mechanical,8.66,0,No,,0,,2023,0
+1644,Mechanical,7.44,0,No,,0,,2023,0
+1645,Mechanical,6.18,0,Yes,Local Startup Inc,3.8,Tier 3,2023,1
+1646,Mechanical,7.38,0,No,,0,,2023,0
+1647,Mechanical,7.52,3,No,,0,,2023,0
+1648,Mechanical,7.01,1,No,,0,,2023,0
+1649,Mechanical,5.91,1,Yes,NextGen Systems,3.9,Tier 3,2023,1
+1650,Mechanical,8.86,2,Yes,Accenture,6.8,Tier 2,2023,2
+1651,Mechanical,6.54,3,No,,0,,2023,0
+1652,Mechanical,6.93,0,Yes,TCS,4.3,Tier 2,2023,1
+1653,Mechanical,7.02,0,Yes,Infosys,5.7,Tier 2,2023,1
+1654,Mechanical,7.07,0,No,,0,,2023,0
+1655,Mechanical,7.46,0,No,,0,,2023,0
+1656,Mechanical,6.92,0,Yes,Wipro,8.8,Tier 2,2023,1
+1657,Mechanical,5.36,0,Yes,Local Startup Inc,4.5,Tier 3,2023,1
+1658,Mechanical,9.07,1,Yes,Cognizant,7.2,Tier 2,2023,1
+1659,Mechanical,8.53,1,No,,0,,2023,0
+1660,Mechanical,9.77,1,Yes,Infosys,5.9,Tier 2,2023,1
+1661,Mechanical,7.11,0,Yes,Accenture,6.0,Tier 2,2023,2
+1662,Mechanical,6.29,3,No,,0,,2023,0
+1663,Mechanical,8.66,2,No,,0,,2023,0
+1664,Mechanical,7.5,0,No,,0,,2023,0
+1665,Mechanical,7.76,1,Yes,Infosys,7.2,Tier 2,2023,3
+1666,Mechanical,6.97,3,No,,0,,2023,0
+1667,Mechanical,6.34,0,Yes,NextGen Systems,2.6,Tier 3,2023,1
+1668,Mechanical,5.64,0,Yes,RegionalTech Solutions,3.4,Tier 3,2023,1
+1669,Mechanical,6.62,0,No,,0,,2023,0
+1670,Mechanical,7.52,0,Yes,Accenture,7.3,Tier 2,2023,2
+1671,Mechanical,6.95,0,No,,0,,2023,0
+1672,Civil,6.59,0,Yes,Wipro,4.9,Tier 2,2023,1
+1673,Civil,5.93,0,No,,0,,2023,0
+1674,Civil,8.46,0,Yes,Google,27.9,Tier 1,2023,1
+1675,Civil,6.34,0,Yes,Local Startup Inc,3.3,Tier 3,2023,1
+1676,Civil,5.96,0,No,,0,,2023,0
+1677,Civil,5.63,0,Yes,NextGen Systems,4.2,Tier 3,2023,1
+1678,Civil,6.8,0,Yes,Wipro,8.1,Tier 2,2023,1
+1679,Civil,6.31,0,Yes,Local Startup Inc,3.4,Tier 3,2023,1
+1680,Civil,6.31,0,No,,0,,2023,0
+1681,Civil,5.0,0,No,,0,,2023,0
+1682,Civil,7.62,0,Yes,Infosys,6.2,Tier 2,2023,1
+1683,Civil,7.1,0,Yes,Capgemini,7.3,Tier 2,2023,1
+1684,Civil,8.43,0,Yes,Accenture,5.1,Tier 2,2023,1
+1685,Civil,8.21,0,No,,0,,2023,0
+1686,Civil,7.61,1,No,,0,,2023,0
+1687,Civil,6.48,0,Yes,Local Startup Inc,3.5,Tier 3,2023,2
+1688,Civil,6.84,2,No,,0,,2023,0
+1689,Civil,6.53,0,No,,0,,2023,0
+1690,Civil,5.83,0,No,,0,,2023,0
+1691,Civil,9.17,0,Yes,Microsoft,40.0,Tier 1,2023,3
+1692,Civil,6.85,0,No,,0,,2023,0
+1693,Civil,7.55,0,Yes,Wipro,6.6,Tier 2,2023,1
+1694,Civil,6.99,2,Yes,Accenture,6.6,Tier 2,2023,2
+1695,Civil,6.2,0,No,,0,,2023,0
+1696,Civil,7.75,1,No,,0,,2023,0
+1697,Civil,8.46,0,Yes,Goldman Sachs,22.9,Tier 1,2023,1
+1698,Civil,6.56,1,No,,0,,2023,0
+1699,Civil,6.53,0,No,,0,,2023,0
+1700,Civil,7.31,1,No,,0,,2023,0
+1701,Civil,5.41,1,Yes,RegionalTech Solutions,4.3,Tier 3,2023,1
+1702,Civil,8.58,0,No,,0,,2023,0
+1703,Civil,6.91,0,No,,0,,2023,0
+1704,Civil,8.04,0,No,,0,,2023,0
+1705,Civil,9.18,0,No,,0,,2023,0
+1706,Civil,9.42,0,Yes,Microsoft,42.4,Tier 1,2023,1
+1707,Civil,6.14,0,Yes,Local Startup Inc,2.6,Tier 3,2023,1
+1708,Civil,7.9,1,Yes,Accenture,8.4,Tier 2,2023,2
+1709,Civil,7.91,1,No,,0,,2023,0
+1710,Civil,7.33,0,Yes,Capgemini,5.0,Tier 2,2023,2
+1711,Civil,6.37,0,No,,0,,2023,0
+1712,Civil,8.1,1,Yes,Cognizant,4.9,Tier 2,2023,1
+1713,Civil,8.2,0,Yes,Capgemini,8.2,Tier 2,2023,2
+1714,Civil,6.14,0,Yes,NextGen Systems,4.1,Tier 3,2023,1
+1715,Civil,7.37,0,Yes,Accenture,4.1,Tier 2,2023,1
+1716,Civil,7.96,1,No,,0,,2023,0
+1717,Civil,9.62,0,Yes,Amazon,36.4,Tier 1,2023,1
+1718,Civil,7.34,1,Yes,Wipro,6.3,Tier 2,2023,2
+1719,Civil,7.39,0,No,,0,,2023,0
+1720,Civil,8.11,0,Yes,Wipro,6.8,Tier 2,2023,3
+1721,Civil,6.45,1,No,,0,,2023,0
+1722,Civil,6.7,0,Yes,Wipro,5.3,Tier 2,2023,1
+1723,Civil,6.64,0,Yes,TCS,8.0,Tier 2,2023,2
+1724,Civil,5.0,1,No,,0,,2023,0
+1725,Civil,6.31,1,No,,0,,2023,0
+1726,Civil,5.79,3,No,,0,,2023,0
+1727,Civil,6.25,0,No,,0,,2023,0
+1728,Civil,7.73,0,Yes,Infosys,7.4,Tier 2,2023,2
+1729,Civil,6.39,2,No,,0,,2023,0
+1730,Civil,6.25,0,Yes,NextGen Systems,2.9,Tier 3,2023,1
+1731,Civil,7.67,0,No,,0,,2023,0
+1732,Civil,7.53,1,Yes,Wipro,7.3,Tier 2,2023,1
+1733,Civil,7.34,2,No,,0,,2023,0
+1734,Civil,7.97,2,No,,0,,2023,0
+1735,Civil,6.15,0,Yes,NextGen Systems,4.4,Tier 3,2023,1
+1736,Civil,6.57,0,No,,0,,2023,0
+1737,Civil,5.0,0,Yes,Local Startup Inc,2.8,Tier 3,2023,1
+1738,Civil,7.19,0,Yes,Cognizant,4.7,Tier 2,2023,1
+1739,Civil,7.65,0,Yes,Wipro,7.2,Tier 2,2023,3
+1740,Civil,6.67,0,Yes,Infosys,6.9,Tier 2,2023,2
+1741,Electrical,5.34,0,No,,0,,2023,0
+1742,Electrical,7.32,0,Yes,Cognizant,4.0,Tier 2,2023,3
+1743,Electrical,5.46,3,No,,0,,2023,0
+1744,Electrical,6.82,1,No,,0,,2023,0
+1745,Electrical,7.3,1,Yes,Wipro,4.6,Tier 2,2023,2
+1746,Electrical,7.21,0,No,,0,,2023,0
+1747,Electrical,8.22,0,Yes,Accenture,6.6,Tier 2,2023,2
+1748,Electrical,8.98,0,No,,0,,2023,0
+1749,Electrical,9.65,0,No,,0,,2023,0
+1750,Electrical,9.9,0,No,,0,,2023,0
+1751,Electrical,7.28,0,No,,0,,2023,0
+1752,Electrical,7.0,0,Yes,TCS,5.8,Tier 2,2023,1
+1753,Electrical,7.02,2,No,,0,,2023,0
+1754,Electrical,6.95,0,Yes,Capgemini,4.5,Tier 2,2023,3
+1755,Electrical,7.38,0,Yes,Wipro,6.4,Tier 2,2023,1
+1756,Electrical,6.9,0,No,,0,,2023,0
+1757,Electrical,6.56,1,No,,0,,2023,0
+1758,Electrical,6.52,0,No,,0,,2023,0
+1759,Electrical,8.55,0,No,,0,,2023,0
+1760,Electrical,8.77,0,Yes,Microsoft,38.3,Tier 1,2023,1
+1761,Electrical,8.65,0,Yes,Infosys,7.4,Tier 2,2023,1
+1762,Electrical,5.0,0,Yes,Local Startup Inc,4.3,Tier 3,2023,1
+1763,Electrical,8.03,0,Yes,Capgemini,7.6,Tier 2,2023,1
+1764,Electrical,5.79,2,No,,0,,2023,0
+1765,Electrical,5.0,0,Yes,Local Startup Inc,4.2,Tier 3,2023,2
+1766,Electrical,8.01,0,No,,0,,2023,0
+1767,Electrical,6.71,2,No,,0,,2023,0
+1768,Electrical,7.44,0,Yes,Wipro,5.8,Tier 2,2023,1
+1769,Electrical,5.78,2,Yes,Local Startup Inc,2.7,Tier 3,2023,2
+1770,Electrical,7.79,0,Yes,Capgemini,8.3,Tier 2,2023,2
+1771,Electrical,7.69,1,Yes,TCS,8.9,Tier 2,2023,1
+1772,Electrical,5.69,1,Yes,RegionalTech Solutions,4.1,Tier 3,2023,2
+1773,Electrical,6.9,0,Yes,Capgemini,8.4,Tier 2,2023,1
+1774,Electrical,6.57,1,No,,0,,2023,0
+1775,Electrical,5.93,2,No,,0,,2023,0
+1776,Electrical,7.34,0,No,,0,,2023,0
+1777,Electrical,9.41,0,No,,0,,2023,0
+1778,Electrical,7.37,1,Yes,Wipro,6.6,Tier 2,2023,3
+1779,Electrical,6.62,0,No,,0,,2023,0
+1780,Electrical,5.79,0,No,,0,,2023,0
+1781,Electrical,6.81,1,No,,0,,2023,0
+1782,Electrical,6.72,0,Yes,Accenture,8.2,Tier 2,2023,2
+1783,Electrical,8.53,0,Yes,TCS,6.5,Tier 2,2023,1
+1784,Electrical,5.42,0,No,,0,,2023,0
+1785,Electrical,7.38,0,No,,0,,2023,0
+1786,Electrical,6.79,0,No,,0,,2023,0
+1787,Electrical,5.95,1,Yes,Local Startup Inc,3.6,Tier 3,2023,1
+1788,Electrical,9.9,0,Yes,Wipro,8.5,Tier 2,2023,1
+1789,Electrical,5.72,0,Yes,Local Startup Inc,4.2,Tier 3,2023,2
+1790,Electrical,6.59,0,No,,0,,2023,0
+1791,Electrical,5.79,0,No,,0,,2023,0
+1792,Electrical,6.17,0,No,,0,,2023,0
+1793,Electrical,8.23,0,No,,0,,2023,0
+1794,Electrical,7.21,0,Yes,Infosys,6.5,Tier 2,2023,1
+1795,Electrical,7.99,0,Yes,TCS,8.7,Tier 2,2023,1
+1796,Electrical,5.57,0,No,,0,,2023,0
+1797,Electrical,7.54,0,Yes,Capgemini,6.9,Tier 2,2023,2
+1798,Electrical,5.49,1,No,,0,,2023,0
+1799,Electrical,5.7,0,No,,0,,2023,0
+1800,Electrical,5.0,0,Yes,NextGen Systems,3.5,Tier 3,2023,2
+1801,Electrical,5.0,0,No,,0,,2023,0
+1802,Electrical,7.07,1,Yes,Accenture,7.0,Tier 2,2023,1
+1803,Electrical,6.21,0,No,,0,,2023,0
+1804,Electrical,9.24,1,Yes,Wipro,8.9,Tier 2,2023,1
+1805,Electrical,6.64,0,No,,0,,2023,0
+1806,IT,7.37,0,No,,0,,2023,0
+1807,IT,6.29,1,No,,0,,2023,0
+1808,IT,6.92,0,Yes,Capgemini,5.7,Tier 2,2023,2
+1809,IT,5.75,1,No,,0,,2023,0
+1810,IT,5.0,0,No,,0,,2023,0
+1811,IT,6.96,0,Yes,Capgemini,7.6,Tier 2,2023,1
+1812,IT,7.69,1,No,,0,,2023,0
+1813,IT,5.0,0,Yes,RegionalTech Solutions,2.8,Tier 3,2023,1
+1814,IT,6.72,1,Yes,Infosys,8.9,Tier 2,2023,2
+1815,IT,6.95,0,No,,0,,2023,0
+1816,IT,6.63,0,Yes,Cognizant,4.5,Tier 2,2023,1
+1817,IT,8.42,2,No,,0,,2023,0
+1818,IT,5.87,0,Yes,NextGen Systems,3.1,Tier 3,2023,2
+1819,IT,5.91,0,No,,0,,2023,0
+1820,IT,5.04,3,No,,0,,2023,0
+1821,IT,7.03,0,Yes,Cognizant,8.1,Tier 2,2023,2
+1822,IT,7.14,2,No,,0,,2023,0
+1823,IT,6.09,0,No,,0,,2023,0
+1824,IT,5.72,1,No,,0,,2023,0
+1825,IT,7.01,1,Yes,Accenture,4.6,Tier 2,2023,1
+1826,IT,7.86,0,Yes,Infosys,6.9,Tier 2,2023,1
+1827,IT,7.17,1,Yes,Wipro,7.0,Tier 2,2023,1
+1828,IT,8.18,1,No,,0,,2023,0
+1829,IT,7.71,1,Yes,Capgemini,5.6,Tier 2,2023,1
+1830,IT,6.42,0,Yes,NextGen Systems,2.8,Tier 3,2023,1
+1831,IT,6.12,0,No,,0,,2023,0
+1832,IT,6.9,1,Yes,Accenture,6.7,Tier 2,2023,1
+1833,IT,9.25,3,Yes,Cognizant,5.2,Tier 2,2023,1
+1834,IT,7.16,0,No,,0,,2023,0
+1835,IT,7.21,2,Yes,TCS,5.9,Tier 2,2023,2
+1836,IT,7.51,0,Yes,Wipro,6.6,Tier 2,2023,2
+1837,IT,5.93,0,No,,0,,2023,0
+1838,IT,7.13,0,Yes,Accenture,6.7,Tier 2,2023,1
+1839,IT,6.67,0,Yes,TCS,5.0,Tier 2,2023,1
+1840,IT,6.66,1,No,,0,,2023,0
+1841,IT,7.14,1,Yes,TCS,6.3,Tier 2,2023,1
+1842,IT,6.03,0,Yes,RegionalTech Solutions,3.6,Tier 3,2023,1
+1843,IT,6.5,0,Yes,Cognizant,5.6,Tier 2,2023,1
+1844,IT,6.84,0,Yes,Capgemini,7.1,Tier 2,2023,1
+1845,IT,7.25,1,Yes,TCS,5.4,Tier 2,2023,2
+1846,IT,5.74,1,No,,0,,2023,0
+1847,IT,6.71,0,No,,0,,2023,0
+1848,IT,9.67,0,Yes,Accenture,5.5,Tier 2,2023,1
+1849,IT,6.58,2,No,,0,,2023,0
+1850,IT,6.51,2,No,,0,,2023,0
+1851,IT,7.36,2,Yes,Accenture,7.0,Tier 2,2023,1
+1852,IT,7.16,0,No,,0,,2023,0
+1853,IT,6.58,2,Yes,Capgemini,8.3,Tier 2,2023,1
+1854,IT,8.92,0,Yes,Google,20.4,Tier 1,2023,1
+1855,IT,7.86,2,No,,0,,2023,0
+1856,IT,5.15,3,No,,0,,2023,0
+1857,IT,6.33,0,Yes,RegionalTech Solutions,4.4,Tier 3,2023,2
+1858,IT,6.92,0,No,,0,,2023,0
+1859,IT,7.29,0,Yes,Wipro,7.1,Tier 2,2023,1
+1860,IT,8.1,0,Yes,Wipro,8.0,Tier 2,2023,1
+1861,IT,7.85,0,No,,0,,2023,0
+1862,IT,7.03,1,No,,0,,2023,0
+1863,IT,7.03,1,Yes,Cognizant,5.8,Tier 2,2023,1
+1864,IT,8.22,0,Yes,Accenture,4.4,Tier 2,2023,1
+1865,IT,6.81,2,Yes,Capgemini,4.4,Tier 2,2023,2
+1866,IT,9.22,0,Yes,Adobe,32.4,Tier 1,2023,1
+1867,IT,7.29,0,Yes,Accenture,6.4,Tier 2,2023,2
+1868,IT,6.44,1,Yes,NextGen Systems,4.0,Tier 3,2023,1
+1869,IT,6.89,0,Yes,Capgemini,5.2,Tier 2,2023,1
+1870,IT,8.39,3,No,,0,,2023,0
+1871,IT,6.46,0,Yes,NextGen Systems,3.8,Tier 3,2023,1
+1872,IT,5.51,3,No,,0,,2023,0
+1873,IT,6.17,0,Yes,RegionalTech Solutions,3.0,Tier 3,2023,1
+1874,IT,7.31,1,Yes,Cognizant,6.3,Tier 2,2023,2
+1875,IT,6.87,3,No,,0,,2023,0
+1876,IT,7.3,1,Yes,Capgemini,5.3,Tier 2,2023,2
+1877,IT,6.55,1,Yes,TCS,6.6,Tier 2,2023,1
+1878,IT,7.01,0,No,,0,,2023,0
+1879,IT,6.18,2,No,,0,,2023,0
+1880,IT,7.09,0,Yes,Infosys,6.2,Tier 2,2023,1
+1881,IT,7.37,0,Yes,Accenture,7.6,Tier 2,2023,1
+1882,IT,8.51,0,Yes,Cognizant,7.4,Tier 2,2023,2
+1883,IT,5.74,0,Yes,Local Startup Inc,3.6,Tier 3,2023,1
+1884,IT,7.39,0,Yes,Accenture,4.7,Tier 2,2023,1
+1885,IT,8.45,0,Yes,Capgemini,7.6,Tier 2,2023,3
+1886,IT,9.35,1,No,,0,,2023,0
+1887,IT,7.51,0,Yes,Cognizant,7.0,Tier 2,2023,1
+1888,IT,8.67,1,No,,0,,2023,0
+1889,CSE,6.26,0,No,,0,,2024,0
+1890,CSE,6.28,2,No,,0,,2024,0
+1891,CSE,8.17,0,Yes,Accenture,7.4,Tier 2,2024,1
+1892,CSE,7.65,1,No,,0,,2024,0
+1893,CSE,8.24,0,No,,0,,2024,0
+1894,CSE,9.33,0,Yes,Accenture,6.7,Tier 2,2024,1
+1895,CSE,9.79,1,Yes,TCS,7.5,Tier 2,2024,1
+1896,CSE,7.22,0,No,,0,,2024,0
+1897,CSE,5.33,0,No,,0,,2024,0
+1898,CSE,7.41,2,No,,0,,2024,0
+1899,CSE,6.17,0,No,,0,,2024,0
+1900,CSE,6.67,2,Yes,Accenture,6.0,Tier 2,2024,1
+1901,CSE,7.85,1,Yes,TCS,5.9,Tier 2,2024,1
+1902,CSE,8.8,0,No,,0,,2024,0
+1903,CSE,6.76,0,Yes,Accenture,6.1,Tier 2,2024,1
+1904,CSE,7.48,0,Yes,Infosys,6.1,Tier 2,2024,1
+1905,CSE,7.47,0,Yes,Wipro,6.9,Tier 2,2024,1
+1906,CSE,5.97,1,Yes,NextGen Systems,2.7,Tier 3,2024,1
+1907,CSE,7.44,2,Yes,Wipro,8.0,Tier 2,2024,1
+1908,CSE,9.11,0,Yes,Google,39.1,Tier 1,2024,1
+1909,CSE,7.75,0,Yes,Wipro,4.4,Tier 2,2024,1
+1910,CSE,6.09,0,Yes,NextGen Systems,3.8,Tier 3,2024,3
+1911,CSE,6.56,0,No,,0,,2024,0
+1912,CSE,9.9,0,Yes,Accenture,5.4,Tier 2,2024,1
+1913,CSE,8.66,0,Yes,Microsoft,34.7,Tier 1,2024,1
+1914,CSE,7.51,3,Yes,Cognizant,5.8,Tier 2,2024,1
+1915,CSE,6.04,0,No,,0,,2024,0
+1916,CSE,8.09,0,Yes,Accenture,8.6,Tier 2,2024,1
+1917,CSE,5.57,0,No,,0,,2024,0
+1918,CSE,9.51,0,No,,0,,2024,0
+1919,CSE,6.44,0,Yes,RegionalTech Solutions,3.2,Tier 3,2024,1
+1920,CSE,6.81,0,Yes,Accenture,8.1,Tier 2,2024,1
+1921,CSE,5.69,3,No,,0,,2024,0
+1922,CSE,6.43,1,No,,0,,2024,0
+1923,CSE,8.38,0,Yes,Google,26.5,Tier 1,2024,1
+1924,CSE,6.91,1,Yes,Wipro,6.1,Tier 2,2024,2
+1925,CSE,6.38,1,Yes,RegionalTech Solutions,3.8,Tier 3,2024,1
+1926,CSE,8.29,1,Yes,Cognizant,5.6,Tier 2,2024,2
+1927,CSE,7.48,0,No,,0,,2024,0
+1928,CSE,8.61,2,Yes,Infosys,7.7,Tier 2,2024,2
+1929,CSE,7.72,0,Yes,Infosys,7.9,Tier 2,2024,1
+1930,CSE,6.66,0,Yes,Cognizant,7.1,Tier 2,2024,3
+1931,CSE,7.32,0,Yes,Cognizant,8.5,Tier 2,2024,1
+1932,CSE,5.83,2,No,,0,,2024,0
+1933,CSE,7.09,1,Yes,Accenture,4.6,Tier 2,2024,1
+1934,CSE,7.89,0,Yes,TCS,6.5,Tier 2,2024,2
+1935,CSE,5.88,0,No,,0,,2024,0
+1936,CSE,8.24,1,Yes,TCS,7.4,Tier 2,2024,1
+1937,CSE,6.83,0,No,,0,,2024,0
+1938,CSE,7.55,0,Yes,Accenture,5.7,Tier 2,2024,1
+1939,CSE,7.67,0,No,,0,,2024,0
+1940,CSE,8.26,0,Yes,Accenture,4.7,Tier 2,2024,1
+1941,CSE,6.5,0,Yes,Cognizant,8.3,Tier 2,2024,1
+1942,CSE,6.84,0,No,,0,,2024,0
+1943,CSE,7.11,0,Yes,Capgemini,6.6,Tier 2,2024,1
+1944,CSE,5.96,1,No,,0,,2024,0
+1945,CSE,6.76,0,Yes,TCS,5.1,Tier 2,2024,1
+1946,CSE,8.54,0,No,,0,,2024,0
+1947,CSE,8.69,0,Yes,Wipro,4.1,Tier 2,2024,1
+1948,CSE,8.23,0,No,,0,,2024,0
+1949,CSE,7.91,0,Yes,Wipro,5.8,Tier 2,2024,1
+1950,CSE,7.03,1,Yes,TCS,5.9,Tier 2,2024,2
+1951,CSE,6.85,0,Yes,Wipro,6.1,Tier 2,2024,2
+1952,CSE,8.71,0,Yes,Amazon,21.8,Tier 1,2024,2
+1953,CSE,6.83,0,No,,0,,2024,0
+1954,ECE,8.03,2,No,,0,,2024,0
+1955,ECE,8.89,0,Yes,Infosys,7.6,Tier 2,2024,1
+1956,ECE,6.51,1,No,,0,,2024,0
+1957,ECE,7.06,0,Yes,Cognizant,6.7,Tier 2,2024,1
+1958,ECE,6.77,0,Yes,TCS,4.5,Tier 2,2024,2
+1959,ECE,6.86,2,No,,0,,2024,0
+1960,ECE,6.89,0,No,,0,,2024,0
+1961,ECE,6.66,0,Yes,Wipro,8.3,Tier 2,2024,1
+1962,ECE,7.4,0,Yes,Accenture,8.7,Tier 2,2024,3
+1963,ECE,6.63,2,No,,0,,2024,0
+1964,ECE,7.02,0,Yes,Accenture,6.2,Tier 2,2024,2
+1965,ECE,6.33,2,No,,0,,2024,0
+1966,ECE,6.15,0,Yes,RegionalTech Solutions,3.0,Tier 3,2024,1
+1967,ECE,7.2,1,No,,0,,2024,0
+1968,ECE,7.21,0,Yes,Cognizant,8.7,Tier 2,2024,1
+1969,ECE,7.05,0,Yes,TCS,6.7,Tier 2,2024,1
+1970,ECE,7.22,0,No,,0,,2024,0
+1971,ECE,6.43,1,No,,0,,2024,0
+1972,ECE,7.52,1,Yes,Capgemini,5.2,Tier 2,2024,1
+1973,ECE,7.42,1,No,,0,,2024,0
+1974,ECE,5.0,0,No,,0,,2024,0
+1975,ECE,7.61,2,Yes,Capgemini,6.3,Tier 2,2024,1
+1976,ECE,6.14,0,No,,0,,2024,0
+1977,ECE,6.23,0,No,,0,,2024,0
+1978,ECE,7.25,0,No,,0,,2024,0
+1979,ECE,7.09,0,Yes,TCS,6.5,Tier 2,2024,1
+1980,ECE,7.76,0,Yes,Wipro,6.3,Tier 2,2024,2
+1981,ECE,7.45,1,No,,0,,2024,0
+1982,ECE,6.25,0,No,,0,,2024,0
+1983,ECE,8.32,0,No,,0,,2024,0
+1984,ECE,7.74,1,No,,0,,2024,0
+1985,ECE,8.56,0,No,,0,,2024,0
+1986,ECE,8.5,0,No,,0,,2024,0
+1987,ECE,8.4,1,No,,0,,2024,0
+1988,ECE,7.46,3,No,,0,,2024,0
+1989,ECE,6.8,0,No,,0,,2024,0
+1990,ECE,6.34,0,No,,0,,2024,0
+1991,ECE,6.37,0,Yes,NextGen Systems,2.9,Tier 3,2024,2
+1992,ECE,7.09,0,No,,0,,2024,0
+1993,ECE,6.9,0,Yes,TCS,8.8,Tier 2,2024,2
+1994,ECE,7.79,0,No,,0,,2024,0
+1995,ECE,6.96,1,Yes,Capgemini,7.1,Tier 2,2024,1
+1996,ECE,6.61,2,No,,0,,2024,0
+1997,ECE,6.93,0,No,,0,,2024,0
+1998,ECE,6.93,1,Yes,Accenture,7.9,Tier 2,2024,1
+1999,ECE,7.28,0,Yes,Wipro,7.6,Tier 2,2024,1
+2000,ECE,5.21,0,Yes,NextGen Systems,3.1,Tier 3,2024,2
+2001,ECE,6.97,0,Yes,Wipro,8.3,Tier 2,2024,2
+2002,ECE,6.53,0,No,,0,,2024,0
+2003,ECE,7.92,0,No,,0,,2024,0
+2004,ECE,8.34,0,Yes,Capgemini,4.9,Tier 2,2024,2
+2005,ECE,9.35,1,Yes,Capgemini,8.8,Tier 2,2024,2
+2006,ECE,7.45,1,Yes,Accenture,4.8,Tier 2,2024,1
+2007,ECE,6.97,0,Yes,TCS,8.2,Tier 2,2024,1
+2008,ECE,8.31,0,No,,0,,2024,0
+2009,ECE,7.58,0,No,,0,,2024,0
+2010,ECE,8.41,1,No,,0,,2024,0
+2011,ECE,5.51,0,No,,0,,2024,0
+2012,ECE,6.92,0,Yes,Infosys,7.3,Tier 2,2024,2
+2013,ECE,9.07,0,Yes,Cognizant,8.1,Tier 2,2024,1
+2014,ECE,6.3,1,Yes,NextGen Systems,2.6,Tier 3,2024,1
+2015,ECE,8.05,2,No,,0,,2024,0
+2016,ECE,7.6,0,No,,0,,2024,0
+2017,ECE,6.5,0,Yes,Infosys,6.8,Tier 2,2024,1
+2018,ECE,7.06,0,No,,0,,2024,0
+2019,ECE,7.35,1,No,,0,,2024,0
+2020,ECE,5.77,0,Yes,NextGen Systems,3.3,Tier 3,2024,2
+2021,ECE,6.86,3,No,,0,,2024,0
+2022,Mechanical,7.75,2,No,,0,,2024,0
+2023,Mechanical,9.32,0,Yes,Microsoft,31.9,Tier 1,2024,2
+2024,Mechanical,7.16,0,No,,0,,2024,0
+2025,Mechanical,7.95,3,No,,0,,2024,0
+2026,Mechanical,6.82,0,No,,0,,2024,0
+2027,Mechanical,8.67,0,No,,0,,2024,0
+2028,Mechanical,7.04,0,Yes,Wipro,4.1,Tier 2,2024,1
+2029,Mechanical,7.94,0,Yes,Accenture,4.8,Tier 2,2024,1
+2030,Mechanical,5.69,0,Yes,RegionalTech Solutions,4.3,Tier 3,2024,1
+2031,Mechanical,7.2,0,No,,0,,2024,0
+2032,Mechanical,8.05,0,Yes,Wipro,8.0,Tier 2,2024,1
+2033,Mechanical,8.16,1,No,,0,,2024,0
+2034,Mechanical,9.02,2,No,,0,,2024,0
+2035,Mechanical,6.65,0,Yes,Wipro,5.7,Tier 2,2024,1
+2036,Mechanical,8.89,1,Yes,Infosys,7.7,Tier 2,2024,2
+2037,Mechanical,8.68,0,No,,0,,2024,0
+2038,Mechanical,5.15,0,No,,0,,2024,0
+2039,Mechanical,6.6,0,No,,0,,2024,0
+2040,Mechanical,8.49,0,No,,0,,2024,0
+2041,Mechanical,9.9,1,Yes,Cognizant,5.4,Tier 2,2024,1
+2042,Mechanical,7.15,0,Yes,Accenture,7.7,Tier 2,2024,1
+2043,Mechanical,6.38,0,No,,0,,2024,0
+2044,Mechanical,6.94,1,No,,0,,2024,0
+2045,Mechanical,6.47,0,No,,0,,2024,0
+2046,Mechanical,7.29,0,No,,0,,2024,0
+2047,Mechanical,6.39,0,No,,0,,2024,0
+2048,Mechanical,7.08,1,No,,0,,2024,0
+2049,Mechanical,8.06,0,Yes,Capgemini,4.1,Tier 2,2024,1
+2050,Mechanical,7.94,0,No,,0,,2024,0
+2051,Mechanical,5.0,0,Yes,Local Startup Inc,2.9,Tier 3,2024,1
+2052,Mechanical,5.0,0,No,,0,,2024,0
+2053,Mechanical,7.52,0,No,,0,,2024,0
+2054,Mechanical,6.77,2,No,,0,,2024,0
+2055,Mechanical,7.28,1,Yes,TCS,5.7,Tier 2,2024,1
+2056,Mechanical,7.03,1,Yes,Wipro,6.7,Tier 2,2024,1
+2057,Mechanical,5.0,1,No,,0,,2024,0
+2058,Mechanical,5.0,0,No,,0,,2024,0
+2059,Mechanical,6.37,0,Yes,RegionalTech Solutions,2.6,Tier 3,2024,1
+2060,Mechanical,7.06,1,Yes,Wipro,7.3,Tier 2,2024,1
+2061,Mechanical,8.09,0,Yes,Cognizant,5.2,Tier 2,2024,2
+2062,Mechanical,6.66,0,No,,0,,2024,0
+2063,Mechanical,7.98,2,No,,0,,2024,0
+2064,Mechanical,7.76,0,Yes,Capgemini,4.1,Tier 2,2024,1
+2065,Mechanical,7.22,0,Yes,Wipro,7.4,Tier 2,2024,1
+2066,Mechanical,8.55,0,Yes,Wipro,8.1,Tier 2,2024,3
+2067,Mechanical,5.61,2,No,,0,,2024,0
+2068,Mechanical,5.59,0,No,,0,,2024,0
+2069,Mechanical,7.08,2,No,,0,,2024,0
+2070,Mechanical,7.82,0,Yes,Accenture,8.4,Tier 2,2024,3
+2071,Mechanical,6.76,0,Yes,Accenture,5.6,Tier 2,2024,1
+2072,Mechanical,6.15,0,Yes,NextGen Systems,3.9,Tier 3,2024,1
+2073,Mechanical,7.38,1,No,,0,,2024,0
+2074,Mechanical,7.77,2,No,,0,,2024,0
+2075,Mechanical,8.79,1,No,,0,,2024,0
+2076,Mechanical,6.18,0,Yes,NextGen Systems,2.7,Tier 3,2024,1
+2077,Mechanical,6.27,1,No,,0,,2024,0
+2078,Mechanical,9.26,2,Yes,Cognizant,7.7,Tier 2,2024,1
+2079,Mechanical,7.88,1,Yes,Infosys,4.9,Tier 2,2024,1
+2080,Mechanical,5.79,1,No,,0,,2024,0
+2081,Mechanical,7.05,0,Yes,Wipro,4.4,Tier 2,2024,1
+2082,Mechanical,8.62,1,Yes,Cognizant,7.6,Tier 2,2024,2
+2083,Mechanical,5.69,0,Yes,Local Startup Inc,3.3,Tier 3,2024,1
+2084,Mechanical,8.73,3,No,,0,,2024,0
+2085,Mechanical,7.94,1,Yes,Infosys,8.6,Tier 2,2024,1
+2086,Mechanical,6.96,3,No,,0,,2024,0
+2087,Mechanical,6.23,0,Yes,Local Startup Inc,3.7,Tier 3,2024,1
+2088,Mechanical,7.26,1,No,,0,,2024,0
+2089,Mechanical,5.15,0,No,,0,,2024,0
+2090,Mechanical,8.81,0,No,,0,,2024,0
+2091,Mechanical,7.71,0,No,,0,,2024,0
+2092,Mechanical,7.33,2,Yes,Capgemini,4.2,Tier 2,2024,1
+2093,Civil,5.66,0,Yes,RegionalTech Solutions,4.0,Tier 3,2024,1
+2094,Civil,7.04,0,Yes,TCS,7.4,Tier 2,2024,1
+2095,Civil,8.21,0,Yes,Infosys,7.9,Tier 2,2024,1
+2096,Civil,6.5,2,No,,0,,2024,0
+2097,Civil,7.95,0,Yes,Capgemini,8.5,Tier 2,2024,1
+2098,Civil,8.05,2,Yes,Capgemini,8.5,Tier 2,2024,1
+2099,Civil,7.7,0,Yes,Wipro,4.4,Tier 2,2024,1
+2100,Civil,5.52,1,No,,0,,2024,0
+2101,Civil,8.7,0,Yes,Amazon,32.0,Tier 1,2024,1
+2102,Civil,6.96,1,Yes,Infosys,7.8,Tier 2,2024,2
+2103,Civil,8.1,1,No,,0,,2024,0
+2104,Civil,7.5,0,Yes,Infosys,4.0,Tier 2,2024,2
+2105,Civil,7.22,0,Yes,Accenture,8.4,Tier 2,2024,2
+2106,Civil,7.03,0,No,,0,,2024,0
+2107,Civil,6.08,0,No,,0,,2024,0
+2108,Civil,7.37,0,No,,0,,2024,0
+2109,Civil,6.17,1,Yes,NextGen Systems,3.2,Tier 3,2024,1
+2110,Civil,6.24,0,Yes,NextGen Systems,3.1,Tier 3,2024,1
+2111,Civil,7.51,0,Yes,Accenture,7.3,Tier 2,2024,1
+2112,Civil,7.03,1,No,,0,,2024,0
+2113,Civil,5.0,1,No,,0,,2024,0
+2114,Civil,6.11,0,No,,0,,2024,0
+2115,Civil,6.16,1,No,,0,,2024,0
+2116,Civil,9.31,1,Yes,TCS,7.5,Tier 2,2024,1
+2117,Civil,6.99,0,No,,0,,2024,0
+2118,Civil,8.53,0,Yes,TCS,6.4,Tier 2,2024,2
+2119,Civil,6.24,3,No,,0,,2024,0
+2120,Civil,5.0,0,No,,0,,2024,0
+2121,Civil,5.0,0,Yes,NextGen Systems,4.0,Tier 3,2024,1
+2122,Civil,6.63,0,No,,0,,2024,0
+2123,Civil,7.8,0,Yes,Cognizant,7.1,Tier 2,2024,1
+2124,Civil,6.67,0,No,,0,,2024,0
+2125,Civil,8.45,0,Yes,TCS,7.2,Tier 2,2024,1
+2126,Civil,5.0,1,No,,0,,2024,0
+2127,Civil,8.05,0,No,,0,,2024,0
+2128,Civil,7.58,0,Yes,Accenture,7.1,Tier 2,2024,1
+2129,Civil,7.87,0,Yes,Cognizant,8.0,Tier 2,2024,1
+2130,Civil,7.32,0,Yes,Accenture,8.5,Tier 2,2024,1
+2131,Civil,5.24,2,Yes,NextGen Systems,3.9,Tier 3,2024,1
+2132,Civil,7.67,0,Yes,Capgemini,5.7,Tier 2,2024,1
+2133,Civil,8.9,0,Yes,Goldman Sachs,33.8,Tier 1,2024,2
+2134,Civil,6.21,1,No,,0,,2024,0
+2135,Civil,6.06,2,No,,0,,2024,0
+2136,Civil,8.15,1,Yes,Cognizant,4.4,Tier 2,2024,1
+2137,Civil,7.96,1,Yes,Infosys,4.6,Tier 2,2024,1
+2138,Civil,6.46,1,No,,0,,2024,0
+2139,Civil,8.22,0,Yes,Infosys,5.7,Tier 2,2024,1
+2140,Civil,6.58,0,No,,0,,2024,0
+2141,Civil,6.84,1,Yes,Accenture,7.4,Tier 2,2024,3
+2142,Civil,8.11,0,No,,0,,2024,0
+2143,Civil,5.52,0,Yes,NextGen Systems,4.2,Tier 3,2024,2
+2144,Civil,7.64,2,No,,0,,2024,0
+2145,Civil,7.59,1,No,,0,,2024,0
+2146,Civil,6.87,0,No,,0,,2024,0
+2147,Civil,6.71,0,Yes,Cognizant,7.4,Tier 2,2024,1
+2148,Civil,6.62,0,Yes,Accenture,6.8,Tier 2,2024,1
+2149,Civil,8.3,0,Yes,Accenture,5.2,Tier 2,2024,2
+2150,Civil,8.03,0,No,,0,,2024,0
+2151,Civil,6.57,0,No,,0,,2024,0
+2152,Civil,8.21,1,Yes,Cognizant,6.0,Tier 2,2024,1
+2153,Civil,6.55,0,No,,0,,2024,0
+2154,Civil,5.0,0,No,,0,,2024,0
+2155,Civil,6.84,1,No,,0,,2024,0
+2156,Civil,7.84,0,No,,0,,2024,0
+2157,Civil,7.33,0,No,,0,,2024,0
+2158,Civil,5.78,1,Yes,NextGen Systems,3.9,Tier 3,2024,1
+2159,Civil,6.42,0,No,,0,,2024,0
+2160,Civil,7.37,0,No,,0,,2024,0
+2161,Civil,5.87,1,No,,0,,2024,0
+2162,Civil,8.27,2,No,,0,,2024,0
+2163,Civil,8.43,0,Yes,Accenture,6.9,Tier 2,2024,1
+2164,Civil,7.44,0,Yes,TCS,5.6,Tier 2,2024,2
+2165,Electrical,8.04,0,No,,0,,2024,0
+2166,Electrical,7.6,0,Yes,Cognizant,5.9,Tier 2,2024,1
+2167,Electrical,6.11,0,No,,0,,2024,0
+2168,Electrical,8.9,0,No,,0,,2024,0
+2169,Electrical,6.42,1,Yes,NextGen Systems,4.2,Tier 3,2024,2
+2170,Electrical,6.98,0,No,,0,,2024,0
+2171,Electrical,6.97,0,Yes,Accenture,4.5,Tier 2,2024,1
+2172,Electrical,7.64,1,No,,0,,2024,0
+2173,Electrical,6.27,1,Yes,NextGen Systems,4.3,Tier 3,2024,2
+2174,Electrical,8.09,0,Yes,Infosys,6.3,Tier 2,2024,1
+2175,Electrical,6.81,0,Yes,Wipro,6.9,Tier 2,2024,2
+2176,Electrical,8.67,2,Yes,Cognizant,7.6,Tier 2,2024,2
+2177,Electrical,9.9,0,Yes,Wipro,4.3,Tier 2,2024,1
+2178,Electrical,5.5,2,No,,0,,2024,0
+2179,Electrical,8.61,3,Yes,TCS,5.2,Tier 2,2024,1
+2180,Electrical,7.21,1,No,,0,,2024,0
+2181,Electrical,6.75,0,No,,0,,2024,0
+2182,Electrical,8.18,1,No,,0,,2024,0
+2183,Electrical,7.61,2,No,,0,,2024,0
+2184,Electrical,8.2,0,No,,0,,2024,0
+2185,Electrical,6.92,0,Yes,Cognizant,7.3,Tier 2,2024,2
+2186,Electrical,6.68,3,No,,0,,2024,0
+2187,Electrical,8.5,2,No,,0,,2024,0
+2188,Electrical,8.71,1,No,,0,,2024,0
+2189,Electrical,6.33,0,No,,0,,2024,0
+2190,Electrical,6.35,0,Yes,Local Startup Inc,3.7,Tier 3,2024,1
+2191,Electrical,7.66,0,Yes,Wipro,4.2,Tier 2,2024,1
+2192,Electrical,6.54,0,No,,0,,2024,0
+2193,Electrical,6.22,3,No,,0,,2024,0
+2194,Electrical,8.27,1,No,,0,,2024,0
+2195,Electrical,8.36,0,Yes,Infosys,6.4,Tier 2,2024,1
+2196,Electrical,5.78,1,No,,0,,2024,0
+2197,Electrical,8.58,1,Yes,Wipro,6.7,Tier 2,2024,1
+2198,Electrical,7.93,0,Yes,Accenture,7.7,Tier 2,2024,2
+2199,Electrical,5.0,1,No,,0,,2024,0
+2200,Electrical,8.53,0,No,,0,,2024,0
+2201,Electrical,7.19,0,Yes,Infosys,6.9,Tier 2,2024,1
+2202,Electrical,5.43,1,No,,0,,2024,0
+2203,Electrical,7.18,0,Yes,Wipro,5.3,Tier 2,2024,1
+2204,Electrical,6.94,0,Yes,Capgemini,4.6,Tier 2,2024,1
+2205,Electrical,7.87,0,Yes,Wipro,7.9,Tier 2,2024,2
+2206,Electrical,8.51,0,Yes,Google,44.0,Tier 1,2024,1
+2207,Electrical,5.51,1,No,,0,,2024,0
+2208,Electrical,6.05,0,Yes,NextGen Systems,3.8,Tier 3,2024,1
+2209,Electrical,7.64,0,No,,0,,2024,0
+2210,Electrical,8.94,1,Yes,Cognizant,6.4,Tier 2,2024,1
+2211,Electrical,5.0,2,No,,0,,2024,0
+2212,Electrical,7.6,1,Yes,Accenture,8.4,Tier 2,2024,1
+2213,Electrical,9.71,0,Yes,TCS,4.5,Tier 2,2024,3
+2214,Electrical,7.39,0,Yes,Accenture,8.6,Tier 2,2024,2
+2215,Electrical,7.83,0,Yes,Cognizant,6.3,Tier 2,2024,1
+2216,Electrical,6.43,1,Yes,Local Startup Inc,3.5,Tier 3,2024,1
+2217,Electrical,5.68,0,Yes,Local Startup Inc,2.5,Tier 3,2024,1
+2218,Electrical,5.0,0,Yes,Local Startup Inc,4.0,Tier 3,2024,1
+2219,Electrical,7.2,0,Yes,Infosys,8.8,Tier 2,2024,1
+2220,Electrical,7.49,0,No,,0,,2024,0
+2221,Electrical,8.78,0,No,,0,,2024,0
+2222,Electrical,8.68,2,No,,0,,2024,0
+2223,Electrical,9.49,1,Yes,TCS,7.2,Tier 2,2024,1
+2224,Electrical,6.72,2,No,,0,,2024,0
+2225,Electrical,5.07,1,No,,0,,2024,0
+2226,Electrical,8.25,0,Yes,Cognizant,5.9,Tier 2,2024,2
+2227,Electrical,8.05,1,Yes,Infosys,7.1,Tier 2,2024,1
+2228,Electrical,7.18,0,Yes,Cognizant,5.1,Tier 2,2024,1
+2229,Electrical,5.69,1,Yes,NextGen Systems,4.0,Tier 3,2024,1
+2230,Electrical,5.3,1,Yes,NextGen Systems,3.8,Tier 3,2024,1
+2231,Electrical,8.68,0,No,,0,,2024,0
+2232,Electrical,6.53,2,No,,0,,2024,0
+2233,Electrical,5.0,0,No,,0,,2024,0
+2234,Electrical,6.95,1,No,,0,,2024,0
+2235,Electrical,7.5,0,No,,0,,2024,0
+2236,Electrical,5.86,1,No,,0,,2024,0
+2237,Electrical,5.0,0,No,,0,,2024,0
+2238,Electrical,6.15,0,No,,0,,2024,0
+2239,Electrical,7.66,0,No,,0,,2024,0
+2240,Electrical,7.08,0,Yes,Capgemini,5.0,Tier 2,2024,2
+2241,Electrical,5.0,1,No,,0,,2024,0
+2242,Electrical,6.23,0,Yes,RegionalTech Solutions,2.7,Tier 3,2024,1
+2243,Electrical,6.0,0,Yes,NextGen Systems,3.0,Tier 3,2024,2
+2244,Electrical,5.87,0,No,,0,,2024,0
+2245,IT,6.72,1,Yes,TCS,5.7,Tier 2,2024,3
+2246,IT,8.47,0,Yes,Adobe,28.8,Tier 1,2024,1
+2247,IT,6.22,0,No,,0,,2024,0
+2248,IT,5.18,2,Yes,NextGen Systems,2.5,Tier 3,2024,1
+2249,IT,8.47,0,Yes,Wipro,8.1,Tier 2,2024,1
+2250,IT,6.36,0,No,,0,,2024,0
+2251,IT,7.4,1,Yes,Accenture,5.1,Tier 2,2024,1
+2252,IT,6.86,1,Yes,Capgemini,7.4,Tier 2,2024,2
+2253,IT,5.85,0,Yes,Local Startup Inc,4.0,Tier 3,2024,2
+2254,IT,9.88,0,Yes,Goldman Sachs,20.0,Tier 1,2024,1
+2255,IT,6.75,0,Yes,Capgemini,7.1,Tier 2,2024,1
+2256,IT,7.68,1,Yes,TCS,4.0,Tier 2,2024,1
+2257,IT,8.74,0,Yes,Cognizant,7.5,Tier 2,2024,1
+2258,IT,6.43,0,No,,0,,2024,0
+2259,IT,6.08,2,No,,0,,2024,0
+2260,IT,7.04,0,Yes,TCS,7.1,Tier 2,2024,1
+2261,IT,7.41,0,Yes,Accenture,8.9,Tier 2,2024,1
+2262,IT,6.2,0,No,,0,,2024,0
+2263,IT,8.5,0,Yes,Google,38.9,Tier 1,2024,1
+2264,IT,7.09,1,No,,0,,2024,0
+2265,IT,6.52,1,Yes,Wipro,5.0,Tier 2,2024,1
+2266,IT,7.31,0,Yes,Cognizant,4.2,Tier 2,2024,2
+2267,IT,7.05,0,No,,0,,2024,0
+2268,IT,5.0,0,Yes,NextGen Systems,3.4,Tier 3,2024,2
+2269,IT,6.19,1,No,,0,,2024,0
+2270,IT,6.65,0,Yes,Infosys,7.7,Tier 2,2024,1
+2271,IT,7.93,0,Yes,Cognizant,4.7,Tier 2,2024,1
+2272,IT,6.42,2,No,,0,,2024,0
+2273,IT,6.75,1,No,,0,,2024,0
+2274,IT,7.59,3,Yes,Capgemini,6.8,Tier 2,2024,1
+2275,IT,7.1,0,Yes,Infosys,8.4,Tier 2,2024,2
+2276,IT,7.72,0,No,,0,,2024,0
+2277,IT,6.22,0,No,,0,,2024,0
+2278,IT,6.05,2,Yes,RegionalTech Solutions,4.2,Tier 3,2024,2
+2279,IT,7.46,0,Yes,Infosys,5.2,Tier 2,2024,1
+2280,IT,8.42,0,Yes,Accenture,8.5,Tier 2,2024,2
+2281,IT,6.91,3,No,,0,,2024,0
+2282,IT,7.36,0,Yes,Capgemini,8.1,Tier 2,2024,1
+2283,IT,6.42,0,Yes,Local Startup Inc,2.8,Tier 3,2024,2
+2284,IT,7.44,0,Yes,Cognizant,7.3,Tier 2,2024,1
+2285,IT,7.84,0,Yes,Cognizant,7.9,Tier 2,2024,3
+2286,IT,8.24,2,Yes,Wipro,7.1,Tier 2,2024,2
+2287,IT,7.18,0,Yes,Accenture,4.2,Tier 2,2024,1
+2288,IT,7.14,0,Yes,Accenture,6.9,Tier 2,2024,2
+2289,IT,7.64,0,Yes,Accenture,8.7,Tier 2,2024,2
+2290,IT,8.81,1,No,,0,,2024,0
+2291,IT,8.0,0,Yes,Accenture,7.5,Tier 2,2024,1
+2292,IT,7.87,0,No,,0,,2024,0
+2293,IT,7.84,0,Yes,Accenture,8.4,Tier 2,2024,2
+2294,IT,7.96,1,No,,0,,2024,0
+2295,IT,7.27,2,No,,0,,2024,0
+2296,IT,6.24,0,Yes,RegionalTech Solutions,3.5,Tier 3,2024,1
+2297,IT,6.65,1,No,,0,,2024,0
+2298,IT,7.11,0,Yes,Capgemini,8.7,Tier 2,2024,1
+2299,IT,8.14,0,No,,0,,2024,0
+2300,IT,5.0,0,Yes,RegionalTech Solutions,4.4,Tier 3,2024,2
+2301,IT,7.78,0,Yes,Infosys,6.6,Tier 2,2024,1
+2302,IT,7.51,0,Yes,Accenture,8.7,Tier 2,2024,3
+2303,IT,6.07,1,Yes,Local Startup Inc,4.2,Tier 3,2024,1
+2304,IT,7.39,0,No,,0,,2024,0
+2305,IT,6.5,0,No,,0,,2024,0
+2306,IT,6.31,0,No,,0,,2024,0
+2307,IT,6.51,0,Yes,Wipro,4.9,Tier 2,2024,1
+2308,IT,5.2,0,No,,0,,2024,0
+2309,IT,9.05,0,Yes,Microsoft,36.4,Tier 1,2024,1
+2310,IT,6.86,0,No,,0,,2024,0
+2311,IT,8.1,1,Yes,TCS,9.0,Tier 2,2024,1
+2312,IT,5.77,0,Yes,Local Startup Inc,3.6,Tier 3,2024,1
+2313,IT,8.14,0,Yes,Infosys,6.7,Tier 2,2024,1
+2314,IT,7.41,0,Yes,Infosys,8.7,Tier 2,2024,2
+2315,IT,7.78,3,No,,0,,2024,0
+2316,IT,6.92,0,No,,0,,2024,0
+2317,IT,6.54,3,No,,0,,2024,0
+2318,IT,9.45,3,No,,0,,2024,0
+2319,IT,7.74,2,Yes,Cognizant,8.5,Tier 2,2024,1
+2320,IT,5.51,0,No,,0,,2024,0
+2321,IT,6.8,1,Yes,TCS,7.0,Tier 2,2024,1
+2322,IT,8.24,0,Yes,Wipro,5.0,Tier 2,2024,2
+2323,IT,9.05,1,No,,0,,2024,0
+2324,IT,8.27,3,No,,0,,2024,0
