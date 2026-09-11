@@ -1,0 +1,109 @@
+-- ============================================
+-- Campus Placement Analysis — SQL Queries
+-- Database: PostgreSQL
+-- ============================================
+
+-- 1. TABLE SCHEMA
+CREATE TABLE placements (
+    student_id      INT PRIMARY KEY,
+    branch          VARCHAR(50),
+    cgpa            NUMERIC(4,2),
+    backlogs        INT,
+    placed          VARCHAR(3),
+    company         VARCHAR(100),
+    package_lpa     NUMERIC(5,2),
+    company_tier    VARCHAR(20),
+    placement_year  INT,
+    offers_count    INT
+);
+
+-- Import data (run from psql, not the query tool, since \copy is a client-side command)
+-- \copy placements FROM 'data/riverdale_university_placements.csv' DELIMITER ',' CSV HEADER;
+
+
+-- 2. OVERALL PLACEMENT RATE
+SELECT
+    COUNT(CASE WHEN placed = 'Yes' THEN 1 END) * 100.0 / COUNT(*) AS placement_rate_pct
+FROM placements;
+
+
+-- 3. PLACEMENT RATE BY BRANCH
+SELECT
+    branch,
+    COUNT(*) AS total_students,
+    COUNT(CASE WHEN placed = 'Yes' THEN 1 END) AS placed_students,
+    ROUND(COUNT(CASE WHEN placed = 'Yes' THEN 1 END) * 100.0 / COUNT(*), 2) AS placement_rate_pct
+FROM placements
+GROUP BY branch
+ORDER BY placement_rate_pct DESC;
+
+
+-- 4. AVERAGE PACKAGE BY BRANCH
+SELECT
+    branch,
+    ROUND(AVG(package_lpa), 2) AS avg_package_lpa,
+    MAX(package_lpa) AS highest_package_lpa
+FROM placements
+WHERE placed = 'Yes'
+GROUP BY branch
+ORDER BY avg_package_lpa DESC;
+
+
+-- 5. CGPA BAND VS. PLACEMENT RATE
+SELECT
+    CASE
+        WHEN cgpa >= 9 THEN '9+'
+        WHEN cgpa >= 8 THEN '8-9'
+        WHEN cgpa >= 7 THEN '7-8'
+        WHEN cgpa >= 6 THEN '6-7'
+        ELSE 'Below 6'
+    END AS cgpa_band,
+    COUNT(*) AS total_students,
+    COUNT(CASE WHEN placed = 'Yes' THEN 1 END) AS placed_count,
+    ROUND(COUNT(CASE WHEN placed = 'Yes' THEN 1 END) * 100.0 / COUNT(*), 2) AS placement_rate_pct
+FROM placements
+GROUP BY cgpa_band
+ORDER BY cgpa_band DESC;
+
+
+-- 6. BACKLOGS IMPACT ON PLACEMENT
+SELECT
+    CASE WHEN backlogs = 0 THEN 'No Backlogs' ELSE 'Has Backlogs' END AS backlog_status,
+    COUNT(*) AS total_students,
+    ROUND(COUNT(CASE WHEN placed = 'Yes' THEN 1 END) * 100.0 / COUNT(*), 2) AS placement_rate_pct
+FROM placements
+GROUP BY backlog_status;
+
+
+-- 7. TOP 10 RECRUITING COMPANIES
+SELECT
+    company,
+    COUNT(*) AS students_hired,
+    ROUND(AVG(package_lpa), 2) AS avg_package_lpa
+FROM placements
+WHERE placed = 'Yes'
+GROUP BY company
+ORDER BY students_hired DESC
+LIMIT 10;
+
+
+-- 8. YEAR-OVER-YEAR TREND
+SELECT
+    placement_year,
+    COUNT(*) AS total_students,
+    COUNT(CASE WHEN placed = 'Yes' THEN 1 END) AS placed_students,
+    ROUND(AVG(CASE WHEN placed = 'Yes' THEN package_lpa END), 2) AS avg_package_lpa
+FROM placements
+GROUP BY placement_year
+ORDER BY placement_year;
+
+
+-- 9. PACKAGE BY COMPANY TIER
+SELECT
+    company_tier,
+    COUNT(*) AS students_hired,
+    ROUND(AVG(package_lpa), 2) AS avg_package_lpa
+FROM placements
+WHERE placed = 'Yes' AND company_tier IS NOT NULL AND company_tier != ''
+GROUP BY company_tier
+ORDER BY avg_package_lpa DESC;
